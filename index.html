@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>測試</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js" integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA==" crossorigin=""></script>
+  <style>
+    html,
+    body {
+      width: 100%;
+      height: 100%;
+    }
+
+    #mapw {
+      width: 50%;
+      height: 50%;
+    }
+  </style>
+  <div id="mapw"></div>
+
+  <script>
+    var map = L.map('mapw').setView([25.0375198, 121.5636796], 12);
+    //台北市 : [25.0375198, 121.5636796]
+
+    //圖標
+    var marker = L.marker([25.0077, 121.4784]);
+
+
+
+
+    var bounds = [
+      [54.559322, -5.767822],
+      [56.1210604, -3.021240]
+    ]; //默认需要给定一个坐标，要不然js会报错
+    var rectangle = L.rectangle(bounds, {
+      color: "#ff7800",
+      weight: 3
+    }).addTo(map);
+
+    var iCount = 0;
+    var southWest, northEast;
+
+    function onMapClick(e) {
+      if (iCount == 1) {
+        northEast = e.latlng;
+        var bounds = L.latLngBounds(southWest, northEast);
+        rectangle.setBounds(bounds);
+        iCount = 0;
+      } else {
+        southWest = e.latlng;
+        iCount++;
+      }
+
+      //当点击地图的时候弹出当前点的经纬度。
+      popup
+        .setLatLng(e.latlng)
+        .setContent("You clicked the map at " + e.latlng.toString())
+        .openOn(map);
+    }
+    //为地图添加click事件
+    rectangle.bindPopup("我是臺北市.");
+    map.on('click', onMapClick);
+
+
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '<a href="https://www.openstreetmap.org/">OSM</a>',
+      maxZoom: 20,
+    }).addTo(map);
+
+    var polyline = new L.polyline([
+      [51.80607748386585, -0.8843994140625],
+      [51.601428064502886, -0.9118652343749999]
+    ], {
+      color: 'blue',
+      opacity: 0.5,
+      weight: 3
+    }).addTo(map);
+
+
+
+
+    marker.addTo(map);
+  </script>
+
+</head>
+
+<body>
+
+
+
+
+</body>
+
+</html>
