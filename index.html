@@ -26,9 +26,9 @@
     #mapw {
       width: 100%;
       height: 100%;
+display:none
     }
     #a{
-
     overflow-y: scroll;
     }
     body{
@@ -141,6 +141,7 @@
 
         <div id="mapw"> </div>
         <script>
+          var on_off = true;
           // var e = [25.0375198, 121.5636796],[25.0375198, 121.5636792];
           var map = L.map('mapw').setView([25.0375198, 121.5636796], 12);
 
@@ -173,7 +174,16 @@
             weight: 3
           }).addTo(map);
 
+
           function hi() {
+            if (on_off) {
+              $("#mapw").show(1500);
+              on_off = false;
+            } else {
+              $("#mapw").hide(1500);
+              on_off = true;
+            }
+
 
           }
 
