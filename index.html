@@ -5,13 +5,65 @@
   <meta charset="utf-8">
 
   <title>台灣零廢棄聯盟</title>
-
-  //leafletjs
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin="" />
+  <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js" integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==" crossorigin=""></script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"></script>
+  <!-- //leafletjs -->
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <link rel=stylesheet type="css/button.css" href="main.css">
+  <!-- // UI -->
+  <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-database.js"></script>
+  <script>
+    var car;
+    // Initialize Firebase
+    var config = {
+      apiKey: "AIzaSyAqYl6dIpW_NFebL0CMd2_OHkFvADgtz1Y",
+      authDomain: "g0v-map.firebaseapp.com",
+      databaseURL: "https://g0v-map.firebaseio.com",
+      projectId: "g0v-map",
+      storageBucket: "g0v-map.appspot.com",
+      messagingSenderId: "281036286954"
+    };
+
+
+    firebase.initializeApp(config);
+
+
+    // var Data = {
+    //   "name": "123",
+    //   "phone": "0912345678123"
+    // }
+    // firebase.database().ref("/member").push(Data);
+
+function getdata(){
+
+}
+    firebase.database().ref("/features/").on('value', function(data) {
+
+      car = data.val();
+
+      for (var i = 0; i < car.length; i++) {
+        var marker = L.marker([car[i].geometry.coordinates[1], car[i].geometry.coordinates[0]]).addTo(map);
+      }
+
+      // console.log(car[1].geometry.coordinates[1],car[1].geometry.coordinates[0]);
+
+
+
+      // console.log(data.val().mobile());
+      // $.each(data.val(), function(k, v) {
+      //   console.log(v);
+      //   console.log(v.addr);
+      // })
+    });
+  </script>
+
+  <!-- //database -->
 
   <style type="text/css">
     html,
@@ -20,6 +72,11 @@
       height: 100%;
       margin: 0;
       padding: 0;
+    }
+
+    #mapid {
+      height: 100%;
+      width: auto;
     }
   </style>
   <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDjYwDw3x3Pt9NQ-01nMXHS_vK0sFlk4bo">
@@ -127,7 +184,31 @@
       </div>
 
       <div class="col-8">
-        <div id="map-canvas"></div>
+
+        <div id="mapid"></div>
+        <script type="text/javascript">
+          // 建立 Leaflet 地圖
+          var map = L.map('mapid');
+
+          // 設定經緯度座標
+
+
+          map.setView(new L.LatLng(22.992, 120.239), 12);
+
+          // 設定圖資來源
+          var osmUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+          var osm = new L.TileLayer(osmUrl, {
+            minZoom: 8,
+            maxZoom: 16
+          });
+          map.addLayer(osm);
+
+
+          for (var i = 0; i < car.length; i++) {
+
+            // var marker = L.marker([car[i].geometry.coordinates[1], car[i].geometry.coordinates[0]]).addTo(map);
+          }
+        </script>
 
       </div>
 

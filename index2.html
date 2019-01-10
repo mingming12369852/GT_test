@@ -71,13 +71,13 @@
   // firebase.database().ref("/member").push(Data);
 
 
-  firebase.database().ref("/features/").on('value', function(data) {
+  firebase.database().ref("/map/").on('value', function(data) {
     console.log(data.val());
     // console.log(data.val().mobile());
-    $.each(data.val(), function(k, v) {
-      console.log(v);
-      console.log(v.addr);
-    })
+    // $.each(data.val(), function(k, v) {
+    //   console.log(v);
+    //   console.log(v.addr);
+    // })
   });
 </script>
 
