@@ -1,0 +1,4891 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.565733,
+					25.041318,
+					0
+				]
+			},
+			"properties": {
+				"name": "Tea Top",
+				"description": "店家看到我們使用自帶提杯還很興奮"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.470246,
+					25.083719,
+					0
+				]
+			},
+			"properties": {
+				"name": "火鍋黨小火鍋",
+				"description": "<img src=\"https://lh4.googleusercontent.com/proxy/UZUMvMb6i5_qhOgVjj9rk0JLkWKrvmRYCvVjOOdNRDPowkMDIdjXmtQT_M9r4xIjXZitBWmT8DGp0EQ10nd11Jt5CDj3HZQQk4yDOHg8xpPPMVJE_KHEpDAGuIuIBY7KRpEYkPmwC3owjyDb2c20FBM8A6JDV9epVj0TT05jSEaf1mg0F0wYWLvIG2NxYEKQqXb1dG9NmxOMmnbAr40vGHKBYHPDU_rPw5LRrHOCUmJ99pCRNKW6BFfOQraW\" height=\"200\" width=\"auto\" /><br><br>類似臭臭鍋",
+				"gx_media_links": "https://lh4.googleusercontent.com/proxy/UZUMvMb6i5_qhOgVjj9rk0JLkWKrvmRYCvVjOOdNRDPowkMDIdjXmtQT_M9r4xIjXZitBWmT8DGp0EQ10nd11Jt5CDj3HZQQk4yDOHg8xpPPMVJE_KHEpDAGuIuIBY7KRpEYkPmwC3owjyDb2c20FBM8A6JDV9epVj0TT05jSEaf1mg0F0wYWLvIG2NxYEKQqXb1dG9NmxOMmnbAr40vGHKBYHPDU_rPw5LRrHOCUmJ99pCRNKW6BFfOQraW"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.517034,
+					25.045101,
+					0
+				]
+			},
+			"properties": {
+				"name": "小旺號公園"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.546083,
+					25.044071,
+					0
+				]
+			},
+			"properties": {
+				"name": "可不可熟成紅茶-台北東區大安店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.502551,
+					25.137377,
+					0
+				]
+			},
+			"properties": {
+				"name": "芽米日子 yummy vegan home"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.566166,
+					25.053266,
+					0
+				]
+			},
+			"properties": {
+				"name": "東京大阪燒",
+				"description": "1.內用的炒麵麵包會有紙袋包裝（如果不想要紙袋可以請老闆直接放在盤子上）<br>2.外帶自備杯子老闆會很開心"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.789869,
+					24.63494,
+					0
+				]
+			},
+			"properties": {
+				"name": "飛魚食染"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.542645,
+					25.042566,
+					0
+				]
+			},
+			"properties": {
+				"name": "四海木須麵"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.542533,
+					25.042753,
+					0
+				]
+			},
+			"properties": {
+				"name": "胖子小吃部"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.543844,
+					25.038316,
+					0
+				]
+			},
+			"properties": {
+				"name": "餃子樂"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.542446,
+					25.043066,
+					0
+				]
+			},
+			"properties": {
+				"name": "桂師傅滷味"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.542298,
+					25.042932,
+					0
+				]
+			},
+			"properties": {
+				"name": "福來早餐 安東店",
+				"description": "可用LINE點餐，告知自己帶餐盒^^"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.515816,
+					25.071495,
+					0
+				]
+			},
+			"properties": {
+				"name": "春福切仔面"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.517076,
+					25.070571,
+					0
+				]
+			},
+			"properties": {
+				"name": "晨間厨房大同大龍店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.519534,
+					25.070691,
+					0
+				]
+			},
+			"properties": {
+				"name": "小厨房復合式早餐店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.518982,
+					25.072262,
+					0
+				]
+			},
+			"properties": {
+				"name": "サブウェイ"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.515944,
+					25.071871,
+					0
+				]
+			},
+			"properties": {
+				"name": "八方雲集鍋貼水餃專賣店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.518944,
+					25.070666,
+					0
+				]
+			},
+			"properties": {
+				"name": "八方雲集大同円山店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.519763,
+					25.07034,
+					0
+				]
+			},
+			"properties": {
+				"name": "円山中西式早餐店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.519658,
+					25.069864,
+					0
+				]
+			},
+			"properties": {
+				"name": "21工房手工酵素涼面"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.514563,
+					25.068483,
+					0
+				]
+			},
+			"properties": {
+				"name": "Wu-Tau Chishang Lunchbox"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.515807,
+					25.069353,
+					0
+				]
+			},
+			"properties": {
+				"name": "円環魯肉飯肉羹"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.514067,
+					25.072212,
+					0
+				]
+			},
+			"properties": {
+				"name": "モスバーガー"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.523231,
+					25.09489,
+					0
+				]
+			},
+			"properties": {
+				"name": "天仁茗茶"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.525657,
+					25.090031,
+					0
+				]
+			},
+			"properties": {
+				"name": "珍煮丹（大北店）"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.514016,
+					25.071722,
+					0
+				]
+			},
+			"properties": {
+				"name": "Yoshinoya",
+				"description": "廚房sop很快就會用免洗餐盒裝好，所以自備餐盒要先說。"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.51597,
+					25.071008,
+					0
+				]
+			},
+			"properties": {
+				"name": "極極冷熱冰 Ji Dessert"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.507449,
+					25.051771,
+					0
+				]
+			},
+			"properties": {
+				"name": "1998飲料店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.526323,
+					25.056123,
+					0
+				]
+			},
+			"properties": {
+				"name": "廟口小吃"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.757832,
+					25.128943,
+					0
+				]
+			},
+			"properties": {
+				"name": "沐澧手作MuBit"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.524337,
+					25.064313,
+					0
+				]
+			},
+			"properties": {
+				"name": "開心茶屋",
+				"description": "自備環保杯可折抵5元❤️"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.522017,
+					25.080823,
+					0
+				]
+			},
+			"properties": {
+				"name": "尚好牛肉麵(水餃)",
+				"description": "外帶可自備餐具<br>(隔壁的豪記牛肉麵曾拒絕自備容器)"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.522683,
+					25.081695,
+					0
+				]
+			},
+			"properties": {
+				"name": "八方雲集(劍潭店)"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.521041,
+					25.081515,
+					0
+				]
+			},
+			"properties": {
+				"name": "梅卿越南料理",
+				"description": "外帶可自備餐具"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.523469,
+					25.080036,
+					0
+				]
+			},
+			"properties": {
+				"name": "永和豆漿店",
+				"description": "外帶可自備容器<br>布型食物袋包飯糰成功"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.522599,
+					25.050052,
+					0
+				]
+			},
+			"properties": {
+				"name": "雲記便當",
+				"description": "鐵盒便當可外送<br>外送提供不銹鋼筷"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.540855,
+					25.021906,
+					0
+				]
+			},
+			"properties": {
+				"name": "BeansLab coffee 豆研咖啡館",
+				"description": "超過十種以上咖啡豆可以跟老闆訂，老闆會現烘，隔天就可以自己帶罐子去裝了，半磅也可以，還會多給一點"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.542759,
+					25.021628,
+					0
+				]
+			},
+			"properties": {
+				"name": "阿玉水餃",
+				"description": "可以自己帶容器去裝新鮮現包水餃"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.545058,
+					25.025396,
+					0
+				]
+			},
+			"properties": {
+				"name": "芝乡凉面",
+				"description": "外帶的話可以自己帶容器去裝，食物袋阿姨還沒看過所以上次失敗，不過一般盒子都ＯＫ，比較可惜的是店內用的小菜都是用塑膠盒裝的..."
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.556488,
+					25.041255,
+					0
+				]
+			},
+			"properties": {
+				"name": "Gontran Cherrier Bakery Taipei",
+				"description": "上次拿食物袋去裝麵包店員非常驚艷"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.554337,
+					25.033337,
+					0
+				]
+			},
+			"properties": {
+				"name": "Semeur 聖娜(信義門市)",
+				"description": "上次去時店員自己也有食物戴，所以完全沒有遲疑地就把麵包直接放進袋子中！不知道其他店員狀況如何就是（而且麵包還好而已）"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.545142,
+					25.02498,
+					0
+				]
+			},
+			"properties": {
+				"name": "景美阿郎塩酥鶏"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.543974,
+					25.024926,
+					0
+				]
+			},
+			"properties": {
+				"name": "鹹水雞"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.689491,
+					24.727758,
+					0
+				]
+			},
+			"properties": {
+				"name": "榮光路352巷38號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.524088,
+					24.991221,
+					0
+				]
+			},
+			"properties": {
+				"name": "湯包排骨酥麵"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54899,
+					24.989809,
+					0
+				]
+			},
+			"properties": {
+				"name": "吉得堡世新店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.508342,
+					25.11514,
+					0
+				]
+			},
+			"properties": {
+				"name": "阿玉素食",
+				"description": "歡迎自帶容器，素食好吃，推薦蕃茄麵（我用玻璃保鮮盒裝湯麵，闆娘沒有拒絕我）"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.460746,
+					25.136247,
+					0
+				]
+			},
+			"properties": {
+				"name": "元記小舖",
+				"description": "甜點、蛋糕、泡芙、咖啡，可自備餐盒去裝食品。闆娘很親切"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.442459,
+					25.169581,
+					0
+				]
+			},
+			"properties": {
+				"name": "廣東腸粉",
+				"description": "闆娘老闆是廣東人，可自備容器裝取腸粉，一個Dr. Si巧餐盒大概可裝3份"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.304428,
+					22.634596,
+					0
+				]
+			},
+			"properties": {
+				"name": "縣爺土雞屋"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.233673,
+					22.59794,
+					0
+				]
+			},
+			"properties": {
+				"name": "八方雲集鍋貼水餃專賣店（高雄復興店）"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.548728,
+					24.989906,
+					0
+				]
+			},
+			"properties": {
+				"name": "車庫吐司-Garage Toast (總店)"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.573667,
+					25.081936,
+					0
+				]
+			},
+			"properties": {
+				"name": "八方雲集"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.534399,
+					25.014352,
+					0
+				]
+			},
+			"properties": {
+				"name": "苜蓿芽生菜捲 好雞匯鹹水雞",
+				"description": "早餐賣苜蓿芽<br>宵夜時間鹹水雞"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.573934,
+					24.992812,
+					0
+				]
+			},
+			"properties": {
+				"name": "豐饒甜食店 Flow Gâteau"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.544363,
+					25.042813,
+					0
+				]
+			},
+			"properties": {
+				"name": "許家邨扁食",
+				"description": "外帶自備餐盒可，會問醬料要不要分開裝。"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54542,
+					25.042706,
+					0
+				]
+			},
+			"properties": {
+				"name": "楊記大餛飩",
+				"description": "內用無免洗餐具，外帶自備餐盒可。老闆很可愛，對矽膠餐盒充滿好奇。"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.546376,
+					25.044866,
+					0
+				]
+			},
+			"properties": {
+				"name": "品方小館",
+				"description": "外帶自備餐盒可。"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.546269,
+					25.043724,
+					0
+				]
+			},
+			"properties": {
+				"name": "阿琪師小籠包",
+				"description": "外帶自備餐盒可。"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.543594,
+					25.045247,
+					0
+				]
+			},
+			"properties": {
+				"name": "Louisa Coffee 路易．莎咖啡 (微風直營店)"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.546626,
+					25.048376,
+					0
+				]
+			},
+			"properties": {
+				"name": "Louisa Coffee 路易．莎咖啡(八德台安門市)"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54578,
+					25.047945,
+					0
+				]
+			},
+			"properties": {
+				"name": "cama café -八德台安店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.010623,
+					24.838054,
+					0
+				]
+			},
+			"properties": {
+				"name": "嘉屏獸肉號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.99822,
+					24.79744,
+					0
+				]
+			},
+			"properties": {
+				"name": "東家便當"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.997188,
+					24.798263,
+					0
+				]
+			},
+			"properties": {
+				"name": "醍醐味豬腳飯"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.021232,
+					24.777136,
+					0
+				]
+			},
+			"properties": {
+				"name": "桔品小館"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.021232,
+					24.777136,
+					0
+				]
+			},
+			"properties": {
+				"name": "桔品小館"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.997301,
+					24.799949,
+					0
+				]
+			},
+			"properties": {
+				"name": "無名肉圓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.996272,
+					24.801732,
+					0
+				]
+			},
+			"properties": {
+				"name": "老段牛肉麵"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.997131,
+					24.803446,
+					0
+				]
+			},
+			"properties": {
+				"name": "老段牛肉麵"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.62391,
+					24.345269,
+					0
+				]
+			},
+			"properties": {
+				"name": "杏仁茶",
+				"description": "<img src=\"https://lh6.googleusercontent.com/proxy/hHXHkuwnJX5yY3-B3YJ4PTQRaTfzPDTnrKyFemp06coWVQyWYsMRY9pGppd_kv4olGlo5ZYQhWsOU2oVIK8SVo9bO82yiO88PcWc2OrzKSJvjDN-pf3i_e8tS4r7qpBuPTXjxqdyOvG8cl-hp2bj-ryjDEJhzyjOuwKlVep4LJ3F7XVIcYmU9qd0iZ8owauY8Xlkj8PAgBtnEpkp-rImW2vmSwCXiH1ZDbeheb9kaLyLmy4L_t54XlnL1lI\" height=\"200\" width=\"auto\" /><br><br>好喝的傳統杏仁茶",
+				"gx_media_links": "https://lh6.googleusercontent.com/proxy/hHXHkuwnJX5yY3-B3YJ4PTQRaTfzPDTnrKyFemp06coWVQyWYsMRY9pGppd_kv4olGlo5ZYQhWsOU2oVIK8SVo9bO82yiO88PcWc2OrzKSJvjDN-pf3i_e8tS4r7qpBuPTXjxqdyOvG8cl-hp2bj-ryjDEJhzyjOuwKlVep4LJ3F7XVIcYmU9qd0iZ8owauY8Xlkj8PAgBtnEpkp-rImW2vmSwCXiH1ZDbeheb9kaLyLmy4L_t54XlnL1lI"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.515942,
+					25.071853,
+					0
+				]
+			},
+			"properties": {
+				"name": "紅記越式食堂"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.514612,
+					25.071875,
+					0
+				]
+			},
+			"properties": {
+				"name": "金和麵食館"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.515942,
+					25.071853,
+					0
+				]
+			},
+			"properties": {
+				"name": "紅記越式食堂"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.517944,
+					25.071988,
+					0
+				]
+			},
+			"properties": {
+				"name": "九湯屋日式拉面円山捷運店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.515837,
+					25.06895,
+					0
+				]
+			},
+			"properties": {
+				"name": "湯竺面食館"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.515812,
+					25.071344,
+					0
+				]
+			},
+			"properties": {
+				"name": "蕃茄妹小吃店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.51893,
+					25.072043,
+					0
+				]
+			},
+			"properties": {
+				"name": "スターバックスコーヒー 庫倫承德店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.564997,
+					25.053288,
+					0
+				]
+			},
+			"properties": {
+				"name": "阿娟優格",
+				"description": "全產品堅持使用玻璃罐裝，也有家庭號尺寸與長期配送服務，但目前似乎僅限台北地區。<br>https://www.akuenyogurt.com"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.517978,
+					25.11657,
+					0
+				]
+			},
+			"properties": {
+				"name": "豆花林",
+				"description": "石牌地區最好吃的豆花，選用非基因改造黃豆自製豆漿與豆花，配料也多是手工製作，很實在很好吃。<br>內用使用陶製碗（還是陶瓷？）與不鏽鋼湯匙，歡迎自備容器的客人，我上次自備容易買無糖豆漿好像有被默默加量不加價XD 豆漿很香濃~"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.51515,
+					25.110008,
+					0
+				]
+			},
+			"properties": {
+				"name": "早餐廚房",
+				"description": "可打電話訂餐並告知自備容器。<br>常常因為吐司和漢堡體積比較大我都索性拿鐵鍋去裝XD"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.513381,
+					25.11021,
+					0
+				]
+			},
+			"properties": {
+				"name": "台灣鹽酥雞大王",
+				"description": "可打電話預定並告知自備容器。<br>我都拿小提鍋去裝~"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.517947,
+					25.116402,
+					0
+				]
+			},
+			"properties": {
+				"name": "阿財鍋貼水餃專賣店 總店",
+				"description": "雖然總是很多人又很忙，但店家還是願意讓客人自備容器裝湯和鍋貼水餃~"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.000744,
+					21.066398,
+					0
+				]
+			},
+			"properties": {
+				"name": "Little Ant 小螞蟻手作烘焙坊-大順店",
+				"description": "可以自備盒子去裝甜點 一個商品折價1元 買幾個折價幾個"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.531527,
+					25.047722,
+					0
+				]
+			},
+			"properties": {
+				"name": "CBD cafe",
+				"description": "手工漢堡、手沖咖啡 用磁盤馬克杯"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.682402,
+					24.162561,
+					0
+				]
+			},
+			"properties": {
+				"name": "打鐵豆花 鐵人總店",
+				"description": "用自備矽膠餐盒買過兩次冰品，店員都很願意配合~"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.69088,
+					24.162758,
+					0
+				]
+			},
+			"properties": {
+				"name": "阿坤黑粉圓"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.69088,
+					24.162758,
+					0
+				]
+			},
+			"properties": {
+				"name": "阿坤黑粉圓",
+				"description": "拿矽膠袋直接裝，老闆很熟練的接過矽膠袋裝好，建議自己封口"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.510585,
+					25.01273,
+					0
+				]
+			},
+			"properties": {
+				"name": "虱目魚肉湯"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.510923,
+					25.012838,
+					0
+				]
+			},
+			"properties": {
+				"name": "仁愛小吃"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.511294,
+					25.012915,
+					0
+				]
+			},
+			"properties": {
+				"name": "麥味登"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.512701,
+					25.013266,
+					0
+				]
+			},
+			"properties": {
+				"name": "桶好甲滷味"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.512342,
+					25.013209,
+					0
+				]
+			},
+			"properties": {
+				"name": "四海遊龍"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.511817,
+					25.013125,
+					0
+				]
+			},
+			"properties": {
+				"name": "露易莎"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.513266,
+					25.015242,
+					0
+				]
+			},
+			"properties": {
+				"name": "Mr. Wish"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.50645,
+					25.028411,
+					0
+				]
+			},
+			"properties": {
+				"name": "南機場九如營養三明治"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.506326,
+					25.039281,
+					0
+				]
+			},
+			"properties": {
+				"name": "宏城漢堡"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.548203,
+					25.034836,
+					0
+				]
+			},
+			"properties": {
+				"name": "心樸市集",
+				"description": "1. 可自備容器去買米、義大利麵等 <br>2. 沒有自備容器的話店內餐廳不提供外帶服務"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.515021,
+					25.07456,
+					0
+				]
+			},
+			"properties": {
+				"name": "愛上咖哩",
+				"description": "內用是一般餐具, 外帶預設是免洗餐具, 可以裝自己的容器OK的, 食材是自家種植的有機蔬菜。"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.519552,
+					25.074072,
+					0
+				]
+			},
+			"properties": {
+				"name": "福記包子饅頭",
+				"description": "有兩位櫃台人員願意給客人莊自己的袋子，有一位似乎不太願意，看運氣"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.547117,
+					25.037239,
+					0
+				]
+			},
+			"properties": {
+				"name": "全福海鮮",
+				"description": "中午有100元上下的便當，每天變換菜色，可帶一大一小兩個保鮮盒，一個裝飯一個裝湯"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.826049,
+					24.858762,
+					0
+				]
+			},
+			"properties": {
+				"name": "阿宗芋冰城",
+				"description": "店家看到不鏽鋼碗非常開心~"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.392957,
+					22.552211,
+					0
+				]
+			},
+			"properties": {
+				"name": "點 103"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.473221,
+					25.013822,
+					0
+				]
+			},
+			"properties": {
+				"name": "小丸亭麵包店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.518389,
+					24.991432,
+					0
+				]
+			},
+			"properties": {
+				"name": "布朗奇早午餐屋"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.475413,
+					25.018178,
+					0
+				]
+			},
+			"properties": {
+				"name": "麥格冰品 豆花"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.503821,
+					25.004743,
+					0
+				]
+			},
+			"properties": {
+				"name": "桶一天下"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.503264,
+					25.005819,
+					0
+				]
+			},
+			"properties": {
+				"name": "牛哥牛肉麵"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.505145,
+					25.003832,
+					0
+				]
+			},
+			"properties": {
+				"name": "廣福甜不辣"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.509516,
+					24.998268,
+					0
+				]
+			},
+			"properties": {
+				"name": "麵線"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.46455,
+					25.073853,
+					0
+				]
+			},
+			"properties": {
+				"name": "無名紅燒肉",
+				"description": "五股區中興路一段150號<br>推薦紅燒肉"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.504218,
+					25.004439,
+					0
+				]
+			},
+			"properties": {
+				"name": "八方雲集鍋貼水餃專賣店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.466014,
+					25.051624,
+					0
+				]
+			},
+			"properties": {
+				"name": "50嵐化成店",
+				"description": "242新北市新莊區化成路209-2號<br>02 2992 4396"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.456955,
+					25.008181,
+					0
+				]
+			},
+			"properties": {
+				"name": "花茶大師 板橋府中店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.4576,
+					25.004923,
+					0
+				]
+			},
+			"properties": {
+				"name": "秦記排骨"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.458285,
+					25.004582,
+					0
+				]
+			},
+			"properties": {
+				"name": "華興街廣東粥"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.443384,
+					25.001352,
+					0
+				]
+			},
+			"properties": {
+				"name": "阿瑋鵝肉王"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.488947,
+					24.998541,
+					0
+				]
+			},
+			"properties": {
+				"name": "周董紅燒鰻"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.504212,
+					24.999784,
+					0
+				]
+			},
+			"properties": {
+				"name": "鴻源燒臘店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.508973,
+					24.998967,
+					0
+				]
+			},
+			"properties": {
+				"name": "第一香鹽酥雞"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.561075,
+					24.238243,
+					0
+				]
+			},
+			"properties": {
+				"name": "沙鹿萬炒飯",
+				"description": "台中市沙鹿區和平街8號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.564584,
+					24.241648,
+					0
+				]
+			},
+			"properties": {
+				"name": "沙鹿吉食豐原排骨麵"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.561504,
+					24.240498,
+					0
+				]
+			},
+			"properties": {
+				"name": "(原沙鹿市場口)來來牛排"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.539533,
+					24.073539,
+					0
+				]
+			},
+			"properties": {
+				"name": "大苑子茶飲專賣店彰化民族店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.684966,
+					24.149077,
+					0
+				]
+			},
+			"properties": {
+				"name": "一中8兩碳烤雞排",
+				"description": "可自備容器"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.569537,
+					24.224157,
+					0
+				]
+			},
+			"properties": {
+				"name": "圓圓紅豆餅"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.683871,
+					24.147331,
+					0
+				]
+			},
+			"properties": {
+				"name": "INO Ice/一中店",
+				"description": "用食物袋裝紅豆餅很方便"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.66568,
+					24.184205,
+					0
+				]
+			},
+			"properties": {
+				"name": "大眾豆漿",
+				"description": "在北屯區的陳平路上，靠近中清路。拿容器去買豆漿，老闆都會多給一些喔！"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.642971,
+					24.17807,
+					0
+				]
+			},
+			"properties": {
+				"name": "鐵人炒飯"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.529466,
+					24.251852,
+					0
+				]
+			},
+			"properties": {
+				"name": "玉麒麟臭臭鍋"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.575096,
+					24.226614,
+					0
+				]
+			},
+			"properties": {
+				"name": "喵匠義式麵坊"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.559089,
+					24.238206,
+					0
+				]
+			},
+			"properties": {
+				"name": "沙鹿阿宏雞排"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.529635,
+					24.251578,
+					0
+				]
+			},
+			"properties": {
+				"name": "欣來便當 自助餐"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.661425,
+					24.139016,
+					0
+				]
+			},
+			"properties": {
+				"name": "大采廚房"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.661931,
+					24.136208,
+					0
+				]
+			},
+			"properties": {
+				"name": "親子園"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.661429,
+					24.135765,
+					0
+				]
+			},
+			"properties": {
+				"name": "廣園快餐"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.665485,
+					24.137389,
+					0
+				]
+			},
+			"properties": {
+				"name": "米的故鄉"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.667694,
+					24.140119,
+					0
+				]
+			},
+			"properties": {
+				"name": "蓮香天然健康素食"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.65485,
+					24.14818,
+					0
+				]
+			},
+			"properties": {
+				"name": "車頭便當",
+				"description": "鐵盒便當可外送"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.668569,
+					24.106064,
+					0
+				]
+			},
+			"properties": {
+				"name": "家務室 Homework",
+				"description": "無包裝商店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.665856,
+					24.126044,
+					0
+				]
+			},
+			"properties": {
+				"name": "貝呢烘焙坊 BANY'S COOKIES BAKE WORKSHOP",
+				"description": "自備容器OK 小店但用料實在，價格實惠，專門幫大飯店OEM糕點"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.486818,
+					24.145206,
+					0
+				]
+			},
+			"properties": {
+				"name": "伸港鄉公有零售市場"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.545306,
+					24.075169,
+					0
+				]
+			},
+			"properties": {
+				"name": "小熊菓子 彰化店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.706268,
+					24.087204,
+					0
+				]
+			},
+			"properties": {
+				"name": "龍哥雞排-大里塗城店",
+				"description": "可自備容器"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.680259,
+					24.165523,
+					0
+				]
+			},
+			"properties": {
+				"name": "引品 sorso 飲室生活",
+				"description": "<img src=\"https://lh4.googleusercontent.com/proxy/R9G0cH6so_iWBiFK5cmHWXZ9ggKhycBhANdlbH-i0G3pfliCA16Ok8o4VYRWpbNGQM8WCJkpX_47bpVqKC-mvJhjjJ_qD5CxWcRjnWJHAlilR5JsinBXqltk4gfwQ73CXtlUCEEwjhnOxLsW-P3EZ2ntpUpI_VDU-vtw6V8P0GLkeNWeyPMC88ra2DZdVE295K3kjft-p_fu3NWmL_UOcK0-pUHjhTNB2_uoQ4T25AmPvnqHMZq6vexM\" height=\"200\" width=\"auto\" /><br><br>引品 響應環保♻️維護環境<br>恕本店不提供消耗性紙杯<br>請各位朋友來外帶咖啡、茶飲時<br>不要忘記帶自己的環保外帶杯來喔<br>當然也歡迎大家來 引品 坐坐<br>享受舒適空間悠閒時光<br><br>♻️ 外帶全面享有九折優惠<br>♻️ 建議為耐熱玻璃材質最佳<br>♻️ 建議杯身容量超過400 ml",
+				"gx_media_links": "https://lh4.googleusercontent.com/proxy/R9G0cH6so_iWBiFK5cmHWXZ9ggKhycBhANdlbH-i0G3pfliCA16Ok8o4VYRWpbNGQM8WCJkpX_47bpVqKC-mvJhjjJ_qD5CxWcRjnWJHAlilR5JsinBXqltk4gfwQ73CXtlUCEEwjhnOxLsW-P3EZ2ntpUpI_VDU-vtw6V8P0GLkeNWeyPMC88ra2DZdVE295K3kjft-p_fu3NWmL_UOcK0-pUHjhTNB2_uoQ4T25AmPvnqHMZq6vexM"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.28893,
+					22.71199,
+					0
+				]
+			},
+			"properties": {
+				"name": "品味屋精緻便當",
+				"description": "★只提供外帶<br>★建議避開用餐尖峰時段（生意很好）<br><br>詢問老闆能不能用自己的餐盒裝，老闆很樂意喔！如果方便的話盡量多帶一個容器或食物袋，可以用來裝主菜（上次點了雞腿排，因為太大份老闆另外用了兩個紙袋裝給我，小小美中不足的部分。）"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.347513,
+					22.611521,
+					0
+				]
+			},
+			"properties": {
+				"name": "早安美芝城鳳山海洋店",
+				"description": "<img src=\"https://lh5.googleusercontent.com/proxy/YxwX_x6FxHaAM97-AmqSvvTcJxCznHxOv4dYbaYwOoQ6ylD2ja8nXOh1fPT_-I7RTn0rzSpFB-1qJyO6pA9BOZZ2n5A_JlKY9D39rQCWS5lXObWu83fm5ESiU6YqQbdqFm_T0uH7UjcpgpKC-W3NcOFrfKGkiArr673pPk3iRmpoQIoEEuR_gxa9vZKPeHgt4_AGexskN6m8jP1E2EKS6qJvBhp3rjocGzh5_y6fOobVNUAQEX2CX4Hmgtw\" height=\"200\" width=\"auto\" /><br><br>元月起　本店歡迎\"不塑之客\"����������<br><br>凡來店外帶自備容器．環保袋．或容器環保袋及環保杯<br><br>店家為您\"現折五元\"唷　　歡迎大家一起加入不塑之客",
+				"gx_media_links": "https://lh5.googleusercontent.com/proxy/YxwX_x6FxHaAM97-AmqSvvTcJxCznHxOv4dYbaYwOoQ6ylD2ja8nXOh1fPT_-I7RTn0rzSpFB-1qJyO6pA9BOZZ2n5A_JlKY9D39rQCWS5lXObWu83fm5ESiU6YqQbdqFm_T0uH7UjcpgpKC-W3NcOFrfKGkiArr673pPk3iRmpoQIoEEuR_gxa9vZKPeHgt4_AGexskN6m8jP1E2EKS6qJvBhp3rjocGzh5_y6fOobVNUAQEX2CX4Hmgtw"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.328005,
+					22.642667,
+					0
+				]
+			},
+			"properties": {
+				"name": "TowZa 1989 粉漿蛋餅",
+				"description": "用料很實在的蛋餅店<br>內用的木頭筷子也定期在更換<br>外帶自備餐盒去裝 店家都非常樂意！<br>內用的杯子目前是紙杯或塑膠杯<br>可以跟店家講 會幫您換成玻璃杯<br>因為有些客人怕玻璃杯打破<br>https://www.facebook.com/towza1989/?pnref=story"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.307829,
+					22.628365,
+					0
+				]
+			},
+			"properties": {
+				"name": "八方雲集鍋貼水餃專賣店（高雄復興店）",
+				"description": "老闆人很好，只要是自帶餐盒的，都會多給！"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.304859,
+					22.630321,
+					0
+				]
+			},
+			"properties": {
+				"name": "味亦美漢堡專賣店",
+				"description": "打電話去點餐，表明要用餐盒，老闆超配合的，會先做好等客人去裝。"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.319852,
+					22.647663,
+					0
+				]
+			},
+			"properties": {
+				"name": "大港飯糰",
+				"description": "飯糰以外的早餐用餐盒都ＯＫ，飯糰我沒試過～"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.306058,
+					22.630339,
+					0
+				]
+			},
+			"properties": {
+				"name": "秀羽素食館",
+				"description": "自助餐一定ＯＫ的！"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.326252,
+					22.64344,
+					0
+				]
+			},
+			"properties": {
+				"name": "素食紅豆餅 (大順郵局前)",
+				"description": "只要帶自己的袋子去裝<br>店家非常樂意喔！<br>久了也都會記得你的習慣～"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.324296,
+					22.644312,
+					0
+				]
+			},
+			"properties": {
+				"name": "大發手工饅頭",
+				"description": "每天的六點開始 每個整點都會出爐一批饅頭<br>(每次都是不同口味)<br>每次都搶購一空 要早點去排隊 <br>店家很樂意幫你把饅頭放進自備盒子裡<br>有時還會跟其他客人說 <br>就要像這年輕人這樣 才不會那麼多垃圾"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.303752,
+					22.647989,
+					0
+				]
+			},
+			"properties": {
+				"name": "巴黎波波麵包店",
+				"description": "非常好吃的麵包～<br>只要把盒子或袋子事先拿出 <br>都很樂意幫你把麵包排的很整齊<br>省下很多透明塑膠袋很棒！<br>店員有次還問我的麵包袋子去哪買的？<br>直誇很美～"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.278974,
+					22.650693,
+					0
+				]
+			},
+			"properties": {
+				"name": "國泰市場 老牌陽春麵",
+				"description": "九如四路上的國泰市場<br>老闆很樂意用我帶去的碗，但用餐時間人真的很多，可能要選離峰時間比較OK"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.319106,
+					22.622884,
+					0
+				]
+			},
+			"properties": {
+				"name": "TST麵包坊",
+				"description": "帶新的食物帶去買了3個麵包，還一起研究怎麼包起來，人超好的"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.284186,
+					22.626147,
+					0
+				]
+			},
+			"properties": {
+				"name": "仨人－燒k啊"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.349189,
+					22.634926,
+					0
+				]
+			},
+			"properties": {
+				"name": "三食室 Sense Eat House"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.341633,
+					22.608308,
+					0
+				]
+			},
+			"properties": {
+				"name": "大明烤鴨店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.341644,
+					22.610525,
+					0
+				]
+			},
+			"properties": {
+				"name": "滷香金饌"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.341515,
+					22.610421,
+					0
+				]
+			},
+			"properties": {
+				"name": "阿中私房小炒"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.342007,
+					22.607286,
+					0
+				]
+			},
+			"properties": {
+				"name": "上等鹹酥雞"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.298432,
+					22.616916,
+					0
+				]
+			},
+			"properties": {
+				"name": "黃家滷味"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.341683,
+					22.610317,
+					0
+				]
+			},
+			"properties": {
+				"name": "元之氣"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.348629,
+					22.613116,
+					0
+				]
+			},
+			"properties": {
+				"name": "大亨牛排（海洋店）"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.33272,
+					22.611531,
+					0
+				]
+			},
+			"properties": {
+				"name": "大亨牛排 高雄武慶店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.335711,
+					22.605939,
+					0
+				]
+			},
+			"properties": {
+				"name": "立鼎鐵板燒"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.335464,
+					22.60589,
+					0
+				]
+			},
+			"properties": {
+				"name": "台越美食"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.337495,
+					22.610465,
+					0
+				]
+			},
+			"properties": {
+				"name": "水餃店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.348095,
+					22.612251,
+					0
+				]
+			},
+			"properties": {
+				"name": "錦記廣東粥"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.289062,
+					52.160455,
+					0
+				]
+			},
+			"properties": {
+				"name": "點 27"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.308343,
+					22.656945,
+					0
+				]
+			},
+			"properties": {
+				"name": "Little Ant 小螞蟻手作烘焙坊-大順店",
+				"description": "店家很歡迎自備盒子去裝甜點 一個商品折價一元 買幾個折幾個"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.358073,
+					22.628905,
+					0
+				]
+			},
+			"properties": {
+				"name": "小螞蟻手作烘焙坊",
+				"description": "歡迎自備盒子去裝甜點  老闆鼓勵大家一起環保愛地球 一個商品折價一元 買幾個就折幾個"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.286862,
+					22.622901,
+					0
+				]
+			},
+			"properties": {
+				"name": "Qian Ye Vegetarian"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.273181,
+					22.623428,
+					0
+				]
+			},
+			"properties": {
+				"name": "永安素食"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.300225,
+					22.631553,
+					0
+				]
+			},
+			"properties": {
+				"name": "Bright Heart Vegetarian"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.490122,
+					22.670571,
+					0
+				]
+			},
+			"properties": {
+				"name": "淺草麵包"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.488758,
+					22.673053,
+					0
+				]
+			},
+			"properties": {
+				"name": "三埢半手作輕食霜淇淋"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.489413,
+					22.669934,
+					0
+				]
+			},
+			"properties": {
+				"name": "東山鴨頭"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.479206,
+					22.656626,
+					0
+				]
+			},
+			"properties": {
+				"name": "建南路65號",
+				"description": "上富牛排館"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.489148,
+					22.590956,
+					0
+				]
+			},
+			"properties": {
+				"name": "八方雲集鍋貼水餃專賣店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.806512,
+					22.409405,
+					0
+				]
+			},
+			"properties": {
+				"name": "大福將自助餐便當 萬丹店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.595494,
+					22.641773,
+					0
+				]
+			},
+			"properties": {
+				"name": "福之味義大利麵"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.594591,
+					22.631608,
+					0
+				]
+			},
+			"properties": {
+				"name": "阿鎮上菜"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.595478,
+					22.640567,
+					0
+				]
+			},
+			"properties": {
+				"name": "溫馨美食"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.595526,
+					22.639649,
+					0
+				]
+			},
+			"properties": {
+				"name": "阿福麵食館"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.199131,
+					22.997769,
+					0
+				]
+			},
+			"properties": {
+				"name": "永樂燒肉飯",
+				"description": "購買經驗：挑人少時段去，老闆樂意依指示填裝食物。"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.539242,
+					23.706253,
+					0
+				]
+			},
+			"properties": {
+				"name": "素之味素食"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.538824,
+					23.702409,
+					0
+				]
+			},
+			"properties": {
+				"name": "阿興素食"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.2751,
+					23.022681,
+					0
+				]
+			},
+			"properties": {
+				"name": "富強路二段74號",
+				"description": "素食麵"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.193534,
+					23.016003,
+					0
+				]
+			},
+			"properties": {
+				"name": "竇爸中式快餐-文賢店",
+				"description": "購買經驗：店員會很自然的接手餐盒，不須特別交代。"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.195437,
+					23.013925,
+					0
+				]
+			},
+			"properties": {
+				"name": "四海遊龍鍋貼專賣店 - 文賢店",
+				"description": "購買經驗：可接受不塑，店員有時忙起來會忘記客人自備的餐盒，通常我會在旁邊盯著提醒。"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.204963,
+					22.998327,
+					0
+				]
+			},
+			"properties": {
+				"name": "正忠排骨飯",
+				"description": "購買經驗：點餐時告知，將餐盒交給出餐人員，店員提醒菜會擺得很亂，如果有大雞腿等裝不下，還是會用紙袋另外裝。"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.205996,
+					23.006463,
+					0
+				]
+			},
+			"properties": {
+				"name": "台灣鮮魚湯"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.200252,
+					23.018526,
+					0
+				]
+			},
+			"properties": {
+				"name": "萬三米糕海安店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.200755,
+					23.01185,
+					0
+				]
+			},
+			"properties": {
+				"name": "花園清粥小菜"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.211281,
+					23.015851,
+					0
+				]
+			},
+			"properties": {
+				"name": "香港深井燒臘店/快餐",
+				"description": "購買經驗：點餐時先告知，湯是自助式。"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.204184,
+					23.014071,
+					0
+				]
+			},
+			"properties": {
+				"name": "生哥豆漿店",
+				"description": "購買經驗：自備餐盒、杯子買很OK，好像有扣錢(不太確定)。"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.197433,
+					23.000542,
+					0
+				]
+			},
+			"properties": {
+				"name": "鳳滷味"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.548188,
+					23.703473,
+					0
+				]
+			},
+			"properties": {
+				"name": "阿李媽媽豆奶酪"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.31626,
+					23.30734,
+					0
+				]
+			},
+			"properties": {
+				"name": "肯德基"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.313456,
+					23.306866,
+					0
+				]
+			},
+			"properties": {
+				"name": "多那之 -新營三民門市"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.295341,
+					23.30585,
+					0
+				]
+			},
+			"properties": {
+				"name": "麥當勞得來速"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.193756,
+					23.004587,
+					0
+				]
+			},
+			"properties": {
+				"name": "施家火雞肉飯文賢店",
+				"description": "點餐後，拿出餐盒，很自然地幫忙裝在餐盒中。態度好。"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.193828,
+					23.004495,
+					0
+				]
+			},
+			"properties": {
+				"name": "小南米糕專門店",
+				"description": "態度好，要求乾麵和燙青菜放一起也可以。"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.193711,
+					23.005285,
+					0
+				]
+			},
+			"properties": {
+				"name": "台南紅燒花枝羹文賢店",
+				"description": "店員很急，點餐要說明清楚說快一點，但是還是願意協助放在自備的餐盒中。"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.193665,
+					23.003891,
+					0
+				]
+			},
+			"properties": {
+				"name": "味一品小吃店",
+				"description": "老闆娘遇到自備餐盒的會很感激地說感恩。"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.191191,
+					23.006021,
+					0
+				]
+			},
+			"properties": {
+				"name": "養聖齋養生蔬食",
+				"description": "態度好，會協助分裝在餐盒。"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.192602,
+					23.000132,
+					0
+				]
+			},
+			"properties": {
+				"name": "長春健康素食餐飲連鎖--民族店(自助餐)",
+				"description": "秤重的素食自助餐，可以自備餐盒，先扣重量，再夾菜，有開發票，健康蔬食，值得推薦的好店家。"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.192057,
+					22.998882,
+					0
+				]
+			},
+			"properties": {
+				"name": "生利自助餐",
+				"description": "可以自帶便當盒，最後請阿姨把飯裝在便當盒裡再計價喔（非稱重計價）"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.200569,
+					22.991443,
+					0
+				]
+			},
+			"properties": {
+				"name": "友愛青草茶總店",
+				"description": "自帶杯子可折兩元"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.193827,
+					22.995994,
+					0
+				]
+			},
+			"properties": {
+				"name": "紅太陽RED SUN TEA",
+				"description": "自帶杯子可折兩元"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.184783,
+					23.006368,
+					0
+				]
+			},
+			"properties": {
+				"name": "迷客夏milkshop 和緯店",
+				"description": "自帶杯子可折兩元"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					119.579884,
+					23.571017,
+					0
+				]
+			},
+			"properties": {
+				"name": "喔！面包"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					119.569448,
+					23.568478,
+					0
+				]
+			},
+			"properties": {
+				"name": "草根果子 Grassroots & Fruit"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					119.564619,
+					23.567097,
+					0
+				]
+			},
+			"properties": {
+				"name": "皮克吐司"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.020705,
+					24.817004,
+					0
+				]
+			},
+			"properties": {
+				"name": "Tea's原味 竹北莊敬店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.028451,
+					24.81447,
+					0
+				]
+			},
+			"properties": {
+				"name": "龍府鍋燒麵"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.011519,
+					24.83344,
+					0
+				]
+			},
+			"properties": {
+				"name": "粥遊列國"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.026572,
+					24.816448,
+					0
+				]
+			},
+			"properties": {
+				"name": "私房小廚"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.00911,
+					24.825754,
+					0
+				]
+			},
+			"properties": {
+				"name": "呷飽店精緻全自助餐"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.012272,
+					24.832441,
+					0
+				]
+			},
+			"properties": {
+				"name": "巧沛東方美"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.015494,
+					24.832366,
+					0
+				]
+			},
+			"properties": {
+				"name": "東家便當"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.026566,
+					24.816596,
+					0
+				]
+			},
+			"properties": {
+				"name": "萬丹紅豆餅"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.026224,
+					24.816261,
+					0
+				]
+			},
+			"properties": {
+				"name": "四海遊龍鍋貼專賣店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.024337,
+					24.814395,
+					0
+				]
+			},
+			"properties": {
+				"name": "竹東邱記排骨酥麵"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.019071,
+					24.812228,
+					0
+				]
+			},
+			"properties": {
+				"name": "膳鮮食品-新竹地方法院B1餐廳"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.025822,
+					24.811733,
+					0
+				]
+			},
+			"properties": {
+				"name": "格正燒臘自助餐"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.02647,
+					24.816638,
+					0
+				]
+			},
+			"properties": {
+				"name": "龍門臭豆腐"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.026858,
+					24.811177,
+					0
+				]
+			},
+			"properties": {
+				"name": "口福精緻自助餐"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.024611,
+					24.812299,
+					0
+				]
+			},
+			"properties": {
+				"name": "吉緣素食館"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.027735,
+					24.815317,
+					0
+				]
+			},
+			"properties": {
+				"name": "美福自助餐"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.02678,
+					24.816545,
+					0
+				]
+			},
+			"properties": {
+				"name": "麥可Michael Tea"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.969529,
+					24.803923,
+					0
+				]
+			},
+			"properties": {
+				"name": "青果小商行"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.011454,
+					24.833454,
+					0
+				]
+			},
+			"properties": {
+				"name": "胖哥串燒"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.028202,
+					24.814959,
+					0
+				]
+			},
+			"properties": {
+				"name": "太上皇牛肉粥"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.183582,
+					24.911859,
+					0
+				]
+			},
+			"properties": {
+				"name": "開源社香雞排(埔心店)",
+				"description": "可自備容器外帶"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.17661,
+					24.909836,
+					0
+				]
+			},
+			"properties": {
+				"name": "瑾晴精緻早午餐",
+				"description": "內用提供餐具(瓷盤),飲料內用杯須主動告知,外帶可自備餐具"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.026103,
+					24.811537,
+					0
+				]
+			},
+			"properties": {
+				"name": "家禾麵食館二店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.17729,
+					24.910034,
+					0
+				]
+			},
+			"properties": {
+				"name": "蜜汁炸雞甘梅薯條",
+				"description": "外帶可自備容器"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.234184,
+					24.874074,
+					0
+				]
+			},
+			"properties": {
+				"name": "五路鍋聖龍潭店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.055986,
+					24.767389,
+					0
+				]
+			},
+			"properties": {
+				"name": "COCO都可茶飲"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.998321,
+					24.802475,
+					0
+				]
+			},
+			"properties": {
+				"name": "迎賓園快餐店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.997927,
+					24.797791,
+					0
+				]
+			},
+			"properties": {
+				"name": "竹源現炒"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.998316,
+					24.796945,
+					0
+				]
+			},
+			"properties": {
+				"name": "金芝園"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.998687,
+					24.796441,
+					0
+				]
+			},
+			"properties": {
+				"name": "吉野烤肉飯"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.996887,
+					24.801231,
+					0
+				]
+			},
+			"properties": {
+				"name": "津鍋"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.992971,
+					24.804446,
+					0
+				]
+			},
+			"properties": {
+				"name": "爭鮮迴轉壽司-新竹愛買店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.992748,
+					24.801635,
+					0
+				]
+			},
+			"properties": {
+				"name": "有一家鹽酥雞"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.993762,
+					24.800627,
+					0
+				]
+			},
+			"properties": {
+				"name": "友善豆花"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.999475,
+					24.798902,
+					0
+				]
+			},
+			"properties": {
+				"name": "餃子大王"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.998395,
+					24.796852,
+					0
+				]
+			},
+			"properties": {
+				"name": "立晉傳統豆花"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.997393,
+					24.798623,
+					0
+				]
+			},
+			"properties": {
+				"name": "蔥大爺餅舖"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.997298,
+					24.798576,
+					0
+				]
+			},
+			"properties": {
+				"name": "晶園排骨"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.996093,
+					24.797993,
+					0
+				]
+			},
+			"properties": {
+				"name": "榮茂魯肉飯"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.995875,
+					24.797664,
+					0
+				]
+			},
+			"properties": {
+				"name": "鮮茶道-清大店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.013548,
+					24.83863,
+					0
+				]
+			},
+			"properties": {
+				"name": "皮皮自助餐店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.011653,
+					24.840688,
+					0
+				]
+			},
+			"properties": {
+				"name": "拉亞漢堡"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.011122,
+					24.8399,
+					0
+				]
+			},
+			"properties": {
+				"name": "劉姊姊飯糰"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.010599,
+					24.839036,
+					0
+				]
+			},
+			"properties": {
+				"name": "鴻福專業炒飯"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.009076,
+					24.837186,
+					0
+				]
+			},
+			"properties": {
+				"name": "魔王狂爆雞排"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.008613,
+					24.836327,
+					0
+				]
+			},
+			"properties": {
+				"name": "麗媽四季鍋"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.025432,
+					24.816801,
+					0
+				]
+			},
+			"properties": {
+				"name": "麗媽四季鍋"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.008255,
+					24.836193,
+					0
+				]
+			},
+			"properties": {
+				"name": "竹北豆漿大王早餐"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.008122,
+					24.835809,
+					0
+				]
+			},
+			"properties": {
+				"name": "日日旺雞腿飯"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.008235,
+					24.83538,
+					0
+				]
+			},
+			"properties": {
+				"name": "宏味港式臭豆腐"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.008393,
+					24.83526,
+					0
+				]
+			},
+			"properties": {
+				"name": "大眾鹽酥雞"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.010802,
+					24.833877,
+					0
+				]
+			},
+			"properties": {
+				"name": "糖奶奶"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.010861,
+					24.833856,
+					0
+				]
+			},
+			"properties": {
+				"name": "美+美早餐店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.007343,
+					24.834236,
+					0
+				]
+			},
+			"properties": {
+				"name": "肉焿王 蚵仔煎"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.007716,
+					24.834805,
+					0
+				]
+			},
+			"properties": {
+				"name": "心點新手作"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.007176,
+					24.834026,
+					0
+				]
+			},
+			"properties": {
+				"name": "擱再來沙茶牛肉炒麵"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.008295,
+					24.835392,
+					0
+				]
+			},
+			"properties": {
+				"name": "擱再來"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.006054,
+					24.832821,
+					0
+				]
+			},
+			"properties": {
+				"name": "阿根早餐"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.005916,
+					24.832835,
+					0
+				]
+			},
+			"properties": {
+				"name": "台中蒸餃"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.005352,
+					24.831956,
+					0
+				]
+			},
+			"properties": {
+				"name": "��師傅便當專賣店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.024511,
+					24.817912,
+					0
+				]
+			},
+			"properties": {
+				"name": "東大排骨 竹北旗艦店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.018823,
+					24.836401,
+					0
+				]
+			},
+			"properties": {
+				"name": "暖暖早餐廳"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.023227,
+					24.818539,
+					0
+				]
+			},
+			"properties": {
+				"name": "源士林粥品成功分號"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.023416,
+					24.81864,
+					0
+				]
+			},
+			"properties": {
+				"name": "阿力香雞排"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.97964,
+					24.809482,
+					0
+				]
+			},
+			"properties": {
+				"name": "竹豐園"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.969805,
+					24.809091,
+					0
+				]
+			},
+			"properties": {
+				"name": "薯霸早餐"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.963156,
+					24.80654,
+					0
+				]
+			},
+			"properties": {
+				"name": "飛龍排骨大王"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.961315,
+					24.808087,
+					0
+				]
+			},
+			"properties": {
+				"name": "納味飲食店(四神湯虎咬豬)"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.959181,
+					24.806683,
+					0
+				]
+			},
+			"properties": {
+				"name": "澄品家餚"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.967898,
+					24.805585,
+					0
+				]
+			},
+			"properties": {
+				"name": "漁香甜不辣/丸子"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.960345,
+					24.801106,
+					0
+				]
+			},
+			"properties": {
+				"name": "松園排骨"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.964978,
+					24.799817,
+					0
+				]
+			},
+			"properties": {
+				"name": "榕樹下麵店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.955223,
+					24.803171,
+					0
+				]
+			},
+			"properties": {
+				"name": "欣園早點"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.956071,
+					24.804753,
+					0
+				]
+			},
+			"properties": {
+				"name": "三廠炸醬麵"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.9563,
+					24.804458,
+					0
+				]
+			},
+			"properties": {
+				"name": "李復興麵館"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.953373,
+					24.805142,
+					0
+				]
+			},
+			"properties": {
+				"name": "三廠炸雞"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.952524,
+					24.805261,
+					0
+				]
+			},
+			"properties": {
+				"name": "正樺南洋美食"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.952419,
+					24.805261,
+					0
+				]
+			},
+			"properties": {
+				"name": "民園自助餐"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.949512,
+					24.805121,
+					0
+				]
+			},
+			"properties": {
+				"name": "我家鹽酥雞"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.951895,
+					24.79964,
+					0
+				]
+			},
+			"properties": {
+				"name": "元富霸王豬腳"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.951772,
+					24.79972,
+					0
+				]
+			},
+			"properties": {
+				"name": "福廣燒臘店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.954252,
+					24.798914,
+					0
+				]
+			},
+			"properties": {
+				"name": "越南小吃（牛肉河粉/海鮮河粉）"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.956371,
+					24.798334,
+					0
+				]
+			},
+			"properties": {
+				"name": "臭豆腐陳"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.962362,
+					24.802482,
+					0
+				]
+			},
+			"properties": {
+				"name": "金佳脆皮臭豆腐"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.956436,
+					24.804968,
+					0
+				]
+			},
+			"properties": {
+				"name": "桂花潤餅壹柒貳"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.96465,
+					24.803393,
+					0
+				]
+			},
+			"properties": {
+				"name": "黑隆美食/西大店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.965344,
+					24.810975,
+					0
+				]
+			},
+			"properties": {
+				"name": "高家冬瓜茶"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.958771,
+					24.805178,
+					0
+				]
+			},
+			"properties": {
+				"name": "佰菇素食"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.975203,
+					24.804101,
+					0
+				]
+			},
+			"properties": {
+				"name": "升一排骨"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.974342,
+					24.803928,
+					0
+				]
+			},
+			"properties": {
+				"name": "佳味便當快餐"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.96465,
+					24.794571,
+					0
+				]
+			},
+			"properties": {
+				"name": "津香排骨飯"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.991083,
+					24.802888,
+					0
+				]
+			},
+			"properties": {
+				"name": "好大一塊排骨の家(忠孝店)"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.999067,
+					24.796708,
+					0
+				]
+			},
+			"properties": {
+				"name": "小洞天大腸香腸"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.956967,
+					24.811523,
+					0
+				]
+			},
+			"properties": {
+				"name": "三福麵線"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.958625,
+					24.806378,
+					0
+				]
+			},
+			"properties": {
+				"name": "鍋子咖啡"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.31479,
+					24.99936,
+					0
+				]
+			},
+			"properties": {
+				"name": "明峯早餐店"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.308222,
+					24.998848,
+					0
+				]
+			},
+			"properties": {
+				"name": "小夜城冰果城"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.318431,
+					24.996997,
+					0
+				]
+			},
+			"properties": {
+				"name": "豐田麻醬麵"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.318082,
+					24.997126,
+					0
+				]
+			},
+			"properties": {
+				"name": "陸軍小館"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.228946,
+					24.964765,
+					0
+				]
+			},
+			"properties": {
+				"name": "飯殿食堂"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.228675,
+					24.964534,
+					0
+				]
+			},
+			"properties": {
+				"name": "范媽媽客家麵食館"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.228653,
+					24.964635,
+					0
+				]
+			},
+			"properties": {
+				"name": "大水缸職人便當"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.23909,
+					24.957036,
+					0
+				]
+			},
+			"properties": {
+				"name": "銀湯匙異國料理"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.996367,
+					24.797868,
+					0
+				]
+			},
+			"properties": {
+				"name": "麵朝",
+				"description": "可自備容器外帶且內用餐具非美耐皿"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.020057,
+					24.776862,
+					0
+				]
+			},
+			"properties": {
+				"name": "bigreeny 料理．家",
+				"description": "本身就是支持環保的店家，內用自備杯子也可以集點、外帶自備杯子和不索要提袋也可以多集點"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					120.986731,
+					24.800655,
+					0
+				]
+			},
+			"properties": {
+				"name": "無名早餐店",
+				"description": "便宜好吃! 自備餐具裝年輕的老闆娘很熱情&好心的多給一兩顆煎餃"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.342975,
+					25.017611,
+					0
+				]
+			},
+			"properties": {
+				"name": "好楓戶農家",
+				"description": "自備容器購買預定之糙米<br>https://www.facebook.com/FullEcoFarm/"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.293519,
+					25.022765,
+					0
+				]
+			},
+			"properties": {
+				"name": "Louisa Coffee 路易．莎咖啡(桃園莊敬店)",
+				"description": "外帶可自備容器<br>內用可能會有紙袋及吸管"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.293556,
+					25.022646,
+					0
+				]
+			},
+			"properties": {
+				"name": "莊敬燒鴨飯",
+				"description": "外帶歡迎自備容器<br>老闆及老板娘很親切:D<br>內用有非一次性餐具，美耐皿盤子及不鏽鋼碗、筷、湯匙<br>飲料杯是塑膠杯或紙杯"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.294032,
+					25.023032,
+					0
+				]
+			},
+			"properties": {
+				"name": "圖蔬健康素食",
+				"description": "自備容器享5元折扣<br>內用有瓷碗及筷子湯匙<br>但杯子是塑膠杯唷~"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.292877,
+					25.023148,
+					0
+				]
+			},
+			"properties": {
+				"name": "亞咪早餐活力屋",
+				"description": "可自備外帶餐盒<br>內用可能會有免洗筷及飲料杯封模+吸管"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.292506,
+					25.023436,
+					0
+				]
+			},
+			"properties": {
+				"name": "麥味登-桃園藝文店",
+				"description": "外帶可自備容器"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.24571,
+					24.924758,
+					0
+				]
+			},
+			"properties": {
+				"name": "新安行 (五穀雜糧)",
+				"description": "五穀雜糧店<br>可自備容器，老闆會先扣重喔~"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.223057,
+					24.949468,
+					0
+				]
+			},
+			"properties": {
+				"name": "無名小吃店(金陵路41號)",
+				"description": "外帶可自備容器<br>內用會有塑膠湯匙及免洗筷QQ"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.293024,
+					25.023006,
+					0
+				]
+			},
+			"properties": {
+				"name": "陳記鍋燒麵",
+				"description": "外帶可自備容器<br>內用有美耐皿碗、湯匙、筷子"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.292005,
+					25.02206,
+					0
+				]
+			},
+			"properties": {
+				"name": "唔勱燒肉",
+				"description": "外帶自備容器可免收服務費(內用一成服務費)<br>可先打電話訂餐<br>兩盒以上可以直接到指定地點收客人準備的餐盒去裝:D"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.29344,
+					25.021853,
+					0
+				]
+			},
+			"properties": {
+				"name": "八方雲集(桃園莊一店)",
+				"description": "可自備餐盒外帶"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.29342,
+					25.022605,
+					0
+				]
+			},
+			"properties": {
+				"name": "滴探蔬食x草食世代-桃園藝文店",
+				"description": "可自備餐盒外帶<br>內用有非一次使用餐具，塑膠筷或美耐皿筷、不鏽鋼湯匙、玻璃水杯及陶瓷碗<br>結帳會有發票，沒有電子載具功能"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-
+					117.160808,
+					32.833607,
+					0
+				]
+			},
+			"properties": {
+				"name": "OO Tea 圈圈茶",
+				"description": "自備杯子沒問題"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-
+					117.146079,
+					32.914735,
+					0
+				]
+			},
+			"properties": {
+				"name": "薡茶珍奶店 (Ding tea)",
+				"description": "自備杯子數次，工作人員有時會不太確定，但最後都有成功用自備的杯子買到飲料。"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-
+					117.092201,
+					32.96249,
+					0
+				]
+			},
+			"properties": {
+				"name": "ZEN Modern Asian Bistro",
+				"description": "<img src=\"https://lh4.googleusercontent.com/proxy/45osJO-qFIFya7wKAwMJTredEC-YnjTstT6zgZDFoD0zOMgw3sx0LrpNvANAX8S4bf23rrUXwEUNzlqsyNOESvzmxpcfemOLpGCOTrCtdRpmJJXVC-JYqrzySBWqCEMfhj9fNQBURHK3WmWPmX5Jd75_fuDJOtLp-58t4JZVejynlTBZuj1l_lJLB80iITtT5Z0DVy2rYr-4xPeDD32nhrKaiChwF8meTrSsWg4gTy_S9h53j-ZxbKLv\" height=\"200\" width=\"auto\" /><br><br>很好吃的台灣菜。不論自備餐盒外帶或吃完用自己的餐盒打包都沒問題。<br><br><img src=\"https://lh5.googleusercontent.com/proxy/1DdvOTp-4Rg0XLyLErbhF5o2_iMdt813ySfFEzgzL3Q-WbqPOQ14_e29dZ2hdaR8GIVfgpFQO8Y1xt3xmMDMN9n4IxvvxMn9zfFHNrYr8Co5qnZDv4Snc4OT6Gl_qNsKdBySDAUVvhETAPrDLuo8D8X_vNoNMt1WSjxwyVpKMNC8_VvCqdP8I2StBtvP7i6H6nSo9RkTAV9VgD4v73mBQEkk0j4FCewc3gYaqpS7yhLqrtN0tRO2awMVEAU\" height=\"200\" width=\"auto\" />",
+				"gx_media_links": "https://lh4.googleusercontent.com/proxy/45osJO-qFIFya7wKAwMJTredEC-YnjTstT6zgZDFoD0zOMgw3sx0LrpNvANAX8S4bf23rrUXwEUNzlqsyNOESvzmxpcfemOLpGCOTrCtdRpmJJXVC-JYqrzySBWqCEMfhj9fNQBURHK3WmWPmX5Jd75_fuDJOtLp-58t4JZVejynlTBZuj1l_lJLB80iITtT5Z0DVy2rYr-4xPeDD32nhrKaiChwF8meTrSsWg4gTy_S9h53j-ZxbKLv https://lh5.googleusercontent.com/proxy/1DdvOTp-4Rg0XLyLErbhF5o2_iMdt813ySfFEzgzL3Q-WbqPOQ14_e29dZ2hdaR8GIVfgpFQO8Y1xt3xmMDMN9n4IxvvxMn9zfFHNrYr8Co5qnZDv4Snc4OT6Gl_qNsKdBySDAUVvhETAPrDLuo8D8X_vNoNMt1WSjxwyVpKMNC8_VvCqdP8I2StBtvP7i6H6nSo9RkTAV9VgD4v73mBQEkk0j4FCewc3gYaqpS7yhLqrtN0tRO2awMVEAU"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.53302,
+					23.90814,
+					0
+				]
+			},
+			"properties": {
+				"name": "菜米迦Cai Mi Jia",
+				"description": "外帶必須自備容器"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.62131,
+					24.005526,
+					0
+				]
+			},
+			"properties": {
+				"name": "味本物",
+				"description": "自備容器折五元"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.608761,
+					23.982169,
+					0
+				]
+			},
+			"properties": {
+				"name": "林記～明禮路葱油餅",
+				"description": "歡迎自備容器"
+			}
+		}
+	]
+}

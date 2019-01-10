@@ -1,0 +1,85 @@
+<!DOCTYPE html>1
+<html>
+
+<head>
+  <style type="text/css">
+    html,
+    body,
+    #map-canvas {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+  </style>
+
+
+
+
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAsIUYASvdECulq6hwNhsdpN62NZU8mE_o">
+  </script>
+  <script type="text/javascript">
+    function initialize() {
+      var mapOptions = {
+        center: {
+          lat: -34.397,
+          lng: 150.644
+        },
+        zoom: 8
+      };
+
+      var map = new google.maps.Map(
+        document.getElementById('map-canvas'),
+        mapOptions);
+
+    }
+    google.maps.event.addDomListener(
+      window, 'load', initialize);
+
+    function hi() {
+      firebase.database().ref('/features/').once('value').then(function(snapshot) {
+        console.log(snapshot);
+      })
+    }
+  </script>
+</head>
+
+<body>
+  <div id="map-canvas"></div>3
+</body>
+<!-- <script src="https://www.gstatic.com/firebasejs/5.7.2/firebase.js"></script> -->
+<script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-database.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyAqYl6dIpW_NFebL0CMd2_OHkFvADgtz1Y",
+    authDomain: "g0v-map.firebaseapp.com",
+    databaseURL: "https://g0v-map.firebaseio.com",
+    projectId: "g0v-map",
+    storageBucket: "g0v-map.appspot.com",
+    messagingSenderId: "281036286954"
+  };
+
+
+  firebase.initializeApp(config);
+
+
+  // var Data = {
+  //   "name": "123",
+  //   "phone": "0912345678123"
+  // }
+  // firebase.database().ref("/member").push(Data);
+
+
+  firebase.database().ref("/features/").on('value', function(data) {
+    console.log(data.val());
+    // console.log(data.val().mobile());
+    $.each(data.val(), function(k, v) {
+      console.log(v);
+      console.log(v.addr);
+    })
+  });
+</script>
+
+</html>
+https://blog.gtwang.org/programming/getting-started-google-maps-javascript-api/
