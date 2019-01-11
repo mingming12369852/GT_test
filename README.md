@@ -24,12 +24,12 @@ Install to HTML
   <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-database.js"></script>
   <script src="http://127.0.0.1/openPointData.js"></script>
 ```
-Map 預覽請使用 OSM
-命名為"map"
+Map 預覽請使用 OSM Leaflet
+(ID="map")
 
 
 ```javascript
-1.getData(name);//輸入資料庫中對應Name,會為你自動標示在leaflet地圖中
+1.getData(name);//輸入資料庫中對應Name,會為你自動標示在Leaflet地圖中
 2.Clear();//初始化 所有的點
 ```
 
