@@ -21,20 +21,22 @@
 [ ] Zero_abandoned_life<br>
 
 <tr>
-Install to HTML<br>
-```javascript
-  <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-app.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-database.js"></script>
-  <script src="http://127.0.0.1/openPointData.js"></script>
-Map 預覽請使用 OSM Leaflet
-請ID 命名為"map"
+<h4>How to Install</h4> <br>
+
+    <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-database.js"></script>
+    <script src="http://127.0.0.1/openPointData.js"></script>
+</h4>注意!</h4><br>
+
+Map 預覽請使用 OSM Leaflet，並請ID 命名為"map"<br>
 
 <tr>
 使用方法
 
+```
+getData(name);//輸入資料庫中對應Name,會為你自動標示在Leaflet地圖中
 
-1.getData(name);//輸入資料庫中對應Name,會為你自動標示在Leaflet地圖中
-2.Clear();//初始化 所有的點
+Clear();//初始化 所有的點
 
 範例:
   <button type="button" onclick="getData('City_repair_station')" name="button">修理</button>
@@ -42,7 +44,4 @@ Map 預覽請使用 OSM Leaflet
   <button type="button" onclick="Clear()" name="button">初始化</button>
 ```
 
-<tr>
-未完成功能<br>
-[X] 顯示地址與名稱<br>
 
