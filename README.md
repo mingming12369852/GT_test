@@ -28,10 +28,18 @@ Map 預覽請使用 OSM Leaflet
 請ID 命名為"map"
 
 
+使用方法
+
 ```javascript
 1.getData(name);//輸入資料庫中對應Name,會為你自動標示在Leaflet地圖中
 2.Clear();//初始化 所有的點
+
+範例:
+  <button type="button" onclick="getData('City_repair_station')" name="button">修理</button>
+  <button type="button" onclick="getData('Free_store')" name="button">書店</button>
+  <button type="button" onclick="Clear()" name="button">初始化</button>
 ```
 
 未完成功能<br>
 [ ] 顯示地址與名稱<br>
+
