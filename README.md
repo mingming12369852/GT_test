@@ -21,19 +21,18 @@
 [ ] Zero_abandoned_life<br>
 
 <tr>
-Install to HTML
-```html
+Install to HTML<br>
+```javascript
   <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-app.js"></script>
   <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-database.js"></script>
   <script src="http://127.0.0.1/openPointData.js"></script>
-```
 Map 預覽請使用 OSM Leaflet
 請ID 命名為"map"
 
 <tr>
 使用方法
 
-```javascript
+
 1.getData(name);//輸入資料庫中對應Name,會為你自動標示在Leaflet地圖中
 2.Clear();//初始化 所有的點
 
