@@ -24,7 +24,7 @@
     function newPoint () {
 
         for (var i = 0; i < car.length; i++) {
-        var marker = L.marker([car[i].geometry.coordinates[1], car[i].geometry.coordinates[0]]).bindPopup(car[i].properties.description);
+        var marker = L.marker([car[i].geometry.coordinates[1], car[i].geometry.coordinates[0]]).bindPopup(car[i].properties.description+car[i].properties.name);
         layers.push(marker);
         }
         myGroup=L.layerGroup(layers);
@@ -38,7 +38,7 @@
       var Shorten_name = Name+"/features/";
       firebase.database().ref(Shorten_name).on('value', function(data) {
          car = data.val();
-         console.log(car[1].properties.description);
+         console.log(car[1].properties);
          if (car != null) {
           newPoint();
          }
@@ -60,6 +60,7 @@
   }
 
   function Clear(){
-    Last_name= null;
-    myGroup.clearLayers();
+    // Last_name= null;
+    // myGroup = null;
+    location.reload(true);
   }
