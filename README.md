@@ -1,8 +1,9 @@
 #GT_test
 
+<h1>開源_零汙染 地標顯示Demo</h1>
 目前 firebase 上有的資料。<br>
 
-<h1>Name</h1>
+<h4>Database Name</h4>
 [x] City_repair_station<br>
 [x] Free_store<br>
 [x] Not_plastic<br>
@@ -32,5 +33,5 @@ Map 預覽請使用 OSM
 2.Clear();//初始化 所有的點
 ```
 
-未完成功能
+未完成功能<br>
 [ ] 顯示地址與名稱<br>
