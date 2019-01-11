@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>大台北地區鐵盒便當地圖</name>
+    <description><![CDATA[嗨，這是我們整理的大台北鐵盒便當資訊，希望提供給和我們關心環境議題，又常辦活動或有餐盒訂購需求的朋友。地圖中的店家皆有提供環保便當外送服務，並隨附環保餐具，待食用完畢後，也會派專人去回收鐵盒（少數特例皆有備註於地圖內）。<br>現在開始，讓我們一起食用環保的便當，減少垃圾製造，創造更友善的環境！<br>By 橘子關懷基金會<br>http://bit.ly/2wHDenG ]]></description>
+    <Style id="icon-1577-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1577-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1577-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1577-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1577-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1577-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1577-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1577-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1577-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1577-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1577-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1577-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1577-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1577-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1577-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>30 個以內可外送</name>
+      <Placemark>
+        <name>溪仔邊烤肉飯  板橋店</name>
+        <description><![CDATA[💲最低外送數量與價位<br>最少 5 個。<br>最低 80 元，價位可依顧客需求調整。<br>📅預定時間<br>一天前<br>📍可外送範圍<br>店家方圓 5 公里內可送，超過此範圍需視外送數量與店家電話確認。]]></description>
+        <styleUrl>#icon-1577-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            121.4787337,25.0120468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>扌合 生態廚房（蛋奶素便當）
+</name>
+        <description><![CDATA[💲最低外送數量與價位<br>最少 15 個。<br>最低 80 元，價位可依顧客需求調整。<br>📅預定時間<br>食材需提早與小農訂購，請提前一週預定。<br>📍可外送範圍<br>商家附近為主，其他地區需自行請機車快遞來回運送便當。<br>📞聯絡方式<br>所有訂購事項請聯繫店家粉專。 <br>https://goo.gl/cGsZyJ<br>【備註】<br>　沒有隨附環保餐具。]]></description>
+        <styleUrl>#icon-1577-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            121.5181642,25.0158443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>頂極餐飲有限公司
+</name>
+        <description><![CDATA[聯絡方式：<br><br>💲最低外送數量與價位<br>最少 5 個。<br>最低 80 元，價位可依顧客需求調整。<br>📅預定時間<br>兩天前<br>📍可外送範圍<br>大台北地區，最少可外送數量會依據地點調整，請與店家電話確認。<br>📞聯絡方式<br>0929-513-255 趙先生<br>Line ID:markyu666 ]]></description>
+        <styleUrl>#icon-1577-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            121.5442787,25.0204253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>溪仔邊烤肉飯  新莊店</name>
+        <description><![CDATA[💲最低外送數量與價位<br>最少 5 個。<br>最低 80 元，價位可依顧客需求調整。<br>📅預定時間<br>一天前<br>📍可外送範圍<br>店家方圓 5 公里內可送，超過此範圍需視外送數量與店家電話確認。]]></description>
+        <styleUrl>#icon-1577-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            121.452403,25.039736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>瘋格格鐵道便當</name>
+        <description><![CDATA[💲最低外送數量與價位<br>最少 10 個。<br>最低 80 元，價位可依顧客需求調整。<br>📅預定時間<br>三天前<br>📍可外送範圍<br>士林區為主，其他地區會視外送數量和店家人力狀況調整，請和店家電話確認。]]></description>
+        <styleUrl>#icon-1577-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            121.5291346,25.1126016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>億品餐館店</name>
+        <description><![CDATA[💲最低外送數量與價位<br>最少 20 個。<br>鐵盒便當價格 85 元。<br>📅預定時間<br>兩天前<br>📍可外送範圍<br>需視外送數量與店家電話確認。<br>📞聯絡方式<br>02-8921-0862<br>02-8921-0863<br>【備註】<br>　同時為學校準備午餐，請務必提早電話確認是<br>　否有辦法幫忙製作。]]></description>
+        <styleUrl>#icon-1577-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            121.525656,25.006394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>溪仔邊烤肉飯  土城店</name>
+        <description><![CDATA[💲最低外送數量與價位<br>最少 5 個。<br>最低 80 元，價位可依顧客需求調整。<br>📅預定時間<br>一天前<br>📍可外送範圍<br>店家方圓 5 公里內可送，超過此範圍需視外送數量與店家電話確認。]]></description>
+        <styleUrl>#icon-1577-F9A825</styleUrl>
+        <Point>
+          <coordinates>
+            121.4664118,24.9868925,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>30 個以上可外送</name>
+      <Placemark>
+        <name>甜心生活公坊( 身障協會經營）</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/gKW1laz9_Q-fauXZYiVCiAWVyyDY_oe5r2Bb1NjKnGRM-ACY-BopVnviL2L8C7o7le_Cepl2h-rsTawh5AbBk9jIxZEPEOvGfFPcKOWaMdUd0FqwbTML_fT7SfD2Z0SlGXic4Lk" height="200" width="auto" /><br><br>💲最低外送數量與價位<br>最少 30 個。<br>最低 80 元，價位可依顧客需求調整。<br>📅預定時間<br>兩天前<br>📍可外送範圍<br>公坊附近皆可送，其他地區需視外送數量與店家電話確認。<br>📞聯絡方式<br>2958-4580 陳小姐<br>【備註】<br>　若例假日有便當需求，需一週前與商家預定。]]></description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/gKW1laz9_Q-fauXZYiVCiAWVyyDY_oe5r2Bb1NjKnGRM-ACY-BopVnviL2L8C7o7le_Cepl2h-rsTawh5AbBk9jIxZEPEOvGfFPcKOWaMdUd0FqwbTML_fT7SfD2Z0SlGXic4Lk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            121.4783389,25.0219185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>迦南餐廳  淡水店</name>
+        <description><![CDATA[💲最低外送數量與價位<br>最少 30 個。<br>便當價格 80-120 元。 <br>📅預定時間<br>提前 3-5 天告知，當天可再微調。<br>📍可外送範圍<br>淡水區為主，其他地區需視外送數量與店家電話確認。]]></description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.4522911,25.1738955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tea Lounge 時尚品茶餐飲 
+</name>
+        <description><![CDATA[聯絡方式：<br>02-2711-2806<br>0988-815-200 呂小姐<br>💲最低外送數量與價位<br>最少 30 個。<br>最低 80 元，價位可依顧客需求調整。<br>📅預定時間<br>兩天前<br>📍可外送範圍<br>大台北地區<br>【備註】<br>　在大台北地區有多處廚房營運，相關菜色歡迎<br>　用粉專詢問。 <br>　 https://goo.gl/yYWnm5]]></description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.5172273,25.0485818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>哇哈便當網
+</name>
+        <description><![CDATA[💲最低外送數量與價位<br>最少 30 個。<br>最低 80 元，價位可依顧客需求調整。<br>📅預定時間<br>兩天前<br>📍可外送範圍<br>大台北地區<br>📞聯絡方式<br>2651-9947<br>Line ID:wahot.yang 楊姐<br>【備註】<br>　在大台北地區有多處廚房營運，相關菜色歡迎<br>　用 Line 詢問。 <br>    官方網站 http://www.wahot.com/]]></description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.5169644,25.0485527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>宮保王食品</name>
+        <description><![CDATA[💲最低外送數量與價位<br>最少 30 個。<br>最低 80 元，價位可依顧客需求調整。<br>📅預定時間<br>一週前<br>📍可外送範圍<br>商家周邊為主，其他地區需視外送數量與店家電話確認。<br>【備註】<br>　因提供學童餐點，所以只有提供寒暑假的鐵盒<br>　便當外送服務。]]></description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.585258,25.052109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>雲記便當</name>
+        <description><![CDATA[💲最低外送數量與價位<br>最少 30 個。<br>最低 100 元，價位可依顧客需求調整。<br>📅預定時間<br>可提早一周給大概數量，活動前再調整最後數量。<br>📍可外送範圍<br>台北市為主，其他地區需視外送數量與店家電話確認。<br>【備註】<br>假日沒有提供鐵盒便當服務<br>公務機關可以訂 80 元的鐵盒便當，但需在特定外送範圍，並有一定數量才可以，請與店家電話確認。]]></description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.522608,25.05005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>迦南餐廳  台大店</name>
+        <description><![CDATA[💲最低外送數量與價位<br>最少 30 個。<br>便當價格 80-120 元。 <br>📅預定時間<br>提前 3-5 天告知，當天可再微調。<br>📍可外送範圍<br>大安區為主，其他地區需視外送數量與店家電話確認。<br>📞聯絡方式<br>(02)8732-2602<br>(02)2733-1668]]></description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.546963,25.0151751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>板橋鐵道便當</name>
+        <description><![CDATA[💲最低外送數量與價位<br>最少 30 個。<br>便當價格 80 - 110 元。 <br>📅預定時間<br>兩天前<br>📍可外送範圍<br>店家地址方圓 15 公里內，其他地區需視外送數量與店家電話確認。]]></description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.461934,25.010279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>呷米共食廚房 （蔬食便當）
+</name>
+        <description><![CDATA[💲最低外送數量與價位<br>視地點而定，但最多 50 個。<br>最低 130 元，價位可依顧客需求調整。<br>📅預定時間<br>一天前<br>📍可外送範圍<br>台北市皆可送，最少外送量需與店家電話確認。<br>【備註】<br>　若例假日有便當需求，需一週前與商家預定。<br>　滿 3000 免運費，其餘則需負擔部分運費。]]></description>
+        <styleUrl>#icon-1577-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            121.513701,25.042415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>50 個以上可外送</name>
+      <Placemark>
+        <name>福氣食品有限公司</name>
+        <description><![CDATA[💲最低外送數量與價位<br>最少 50 個。<br>最低 80 元，價位可依顧客需求調整。<br>📅預定時間<br>200 份以內，3天前預訂。<br>200 份以上，7天前預訂。<br>📍可外送範圍<br>大台北地區，需視外送數量與店家電話確認。<br>【備註】<br>　假日無營業]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            121.5640084,25.0860725,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>千代采食</name>
+        <description><![CDATA[💲最低外送數量與價位<br>最少 50 個。<br>便當價格 100-180 元，量多則可依需求調整。<br>📅預定時間<br>150 個以內，最晚 3 天前預訂。<br>150 個以上，需一個禮拜前預訂。<br>📍可外送範圍<br>大台北地區，需視外送數量與店家電話確認。<br>📞聯絡方式<br>Line ID ：@pep0597n<br>【備註】<br>　不隨附環保餐具，需另外與商家租借。]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            121.5262962,25.1199005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>四川快餐店</name>
+        <description><![CDATA[💲最低外送數量與價位<br>最少 80 個。<br>最低 80 元，價位可依顧客需求調整。<br>📅預定時間<br>兩天前<br>📍可外送範圍<br>板橋、中和區為主，其他地區需視外送數量與店家電話確認。<br>【備註】<br>　自取（也需自行送回餐盒）則不限數量。]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            121.4575467,25.0239313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

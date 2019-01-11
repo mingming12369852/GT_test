@@ -46,11 +46,12 @@
 <body>
   <div id="map-canvas"></div>3
 </body>
-<!-- <script src="https://www.gstatic.com/firebasejs/5.7.2/firebase.js"></script> -->
 <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-app.js"></script>
 <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-database.js"></script>
 <script>
   // Initialize Firebase
+
+  //data 連線
   var config = {
     apiKey: "AIzaSyAqYl6dIpW_NFebL0CMd2_OHkFvADgtz1Y",
     authDomain: "g0v-map.firebaseapp.com",
@@ -59,18 +60,15 @@
     storageBucket: "g0v-map.appspot.com",
     messagingSenderId: "281036286954"
   };
-
-
   firebase.initializeApp(config);
 
 
-  // var Data = {
-  //   "name": "123",
-  //   "phone": "0912345678123"
-  // }
-  // firebase.database().ref("/member").push(Data);
+  //get data
+
+  function getPunctuation(idea) {
 
 
+  }
   firebase.database().ref("/map/").on('value', function(data) {
     console.log(data.val());
     // console.log(data.val().mobile());

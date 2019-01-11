@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Ubag 合作商家</name>
+    <description>Ubag 合作商家</description>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>合作店家</name>
+      <Placemark>
+        <name>跳蚤本舖</name>
+        <description><![CDATA[屬性：二手商店                                                    <br>聯絡電話：02-86711616                                           <br>營業時間：11：00-21：00 (星期二公休)<br>接受袋子：紙袋<br>店家地址：新北市三峽區大學路188號]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            121.3749348,24.9434525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>恩典果園</name>
+        <description><![CDATA[屬性：水果行                                                               <br>聯絡電話：02-35018747                                           <br>營業時間：9：00～21：00 (星期日公休)<br>接受袋子：塑膠袋、紙袋<br>店家地址：新北市樹林區大有路122號]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            121.383767,24.9489082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>金玉堂批發廣場</name>
+        <description><![CDATA[屬性：文具行                                                               <br>聯絡電話：02-35019175                                             <br>營業時間：10：00～22：00 (雙週六公休)<br>接受袋子：紙袋<br>店家地址：新北市樹林區學林路79號]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            121.3781665,24.9491275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yukimasa幸將手作坊</name>
+        <description><![CDATA[屬性：甜品店                                                               <br>聯絡電話：02-26738838                                               <br>營業時間：12：00～22：00 (星期一公休)<br>接受袋子：紙袋                     <br>店家地址：新北市三峽區大德路135號<br>官方網站：https://www.facebook.com/Yukimasa26738838?ref=stream]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            121.3759808,24.9449613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>纖米Rice</name>
+        <description><![CDATA[屬性：蔬果米店<br>聯絡電話：02-86716709<br>營業時間： <br>接受袋子：紙袋<br>店家地址：新北市三峽區大義路205號<br>官方網站：https://www.facebook.com/profile.php?id=100006500208067&fref=ts]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            121.3778903,24.9460215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>三富早餐店</name>
+        <description><![CDATA[屬性：早餐店<br> 聯絡電話：02-2910-0835<br>營業時間：07：00-12：00<br> 接受袋子：紙袋<br>店家地址：新北市新店區中興路一段140號<br>官方網站：https://www.facebook.com/TrbBreakfast]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            121.5424044,24.9635903,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>呷米共食廚房</name>
+        <description><![CDATA[屬性：蔬食餐廳<br>聯絡電話：02 2331 9662<br>營業時間：11:30-21:00 (星期日公休)<br>接受袋子：紙袋 <br>店家地址：台北市衡陽路9號<br>官方網站：https://www.facebook.com/Ricerevolutioneco?fref=ts]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            121.513701,25.042415,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lucyluca</name>
+        <description><![CDATA[屬性：麵包坊<br>聯絡電話：02-26188338<br>營業時間：10:00-18:00 (星期一公休)<br>接受袋子：紙袋 <br>店家地址：新北市八里區龍米路一段436號<br>官方網站：https://www.facebook.com/Lovelucyluca]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            121.45293,25.125591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>微笑好事修洗工作室</name>
+        <description><![CDATA[屬性：修洗鞋包<br>聯絡電話：02-29258600<br>營業時間：<br>接受袋子：紙袋<br>店家地址：新北市永和區秀朗路ㄧ段135巷20號1樓<br>官方網站：]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            121.5170988,25.0052525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>熊好康</name>
+        <description><![CDATA[屬性：玩具、即期良品專賣店<br>聯絡電話：02-86715208<br>營業時間：11：30-22：30<br>接受袋子：紙袋<br>店家地址：新北市三峽區國際一街72-1號<br>官方網站：https://www.facebook.com/hokbear]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            121.372976,24.9423085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dream shop</name>
+        <description><![CDATA[屬性：衣服店<br>聯絡電話：<br>營業時間：<br>接受袋子：紙袋<br>店家地址：新北市三峽區國學街57號<br>官方網站：]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            121.372976,24.9423085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Say cheese</name>
+        <description><![CDATA[屬性：咖啡廳<br>聯絡電話：0930-963879<br>營業時間：10：00-19：00 (星期一、二公休)<br>接受袋子：紙袋<br>店家地址：新北市三峽區大觀路24號<br>官方網站：https://www.facebook.com/Saycheesecafe?fref=ts]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            121.3743369,24.945927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>老柴咖啡館</name>
+        <description><![CDATA[屬性：咖啡廳<br>聯絡電話：02-35012656<br>營業時間：平日07：30-21：00  假日08：30-21：00<br>接受袋子：紙袋<br>店家地址：新北市三峽區大觀路113號<br>官方網站：https://www.facebook.com/pages/Lao-Chai-%E8%80%81%E6%9F%B4%E5%92%96%E5%95%A1%E9%A4%A8/194325670580111]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            121.3743369,24.945927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bio @PEACE 愛在咖啡</name>
+        <description><![CDATA[屬性：餐廳<br>聯絡電話：02-26660887<br>營業時間：午餐 11：00-1500   晚餐17：00-20：00 (星期一公休)<br>接受袋子：紙袋<br>店家地址：新北市新店區金興路40號<br>官方網站：http://peacecafe.com.tw/]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            121.5529639,24.9321195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>萬富商號</name>
+        <description><![CDATA[屬性：複合式餐廳<br>聯絡電話：08-9233590<br>營業時間：11：30-21：00<br>接受袋子：紙袋<br>店家地址：台東市中興路二段191號 (東糖文化創意園區)<br>官方網站：https://www.facebook.com/wonderfulstore/timeline]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            121.1245922,22.7688905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>慢寓生活合作社</name>
+        <description><![CDATA[屬性：好玩好買好東西、secondhand二手、Vintage古著、尋寶<br>營業時間：星期四-星期日13:30-21:30<br>接受袋子：紙袋<br>店家地址：台北市松山區八德路三段106巷120號 (近市民大道延吉街口)<br>官方網站：http://www.facebook.com/manyuloveu]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            121.5536077,25.0447286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[日楞 Ryou Caf'e]]></name>
+        <description><![CDATA[屬性：咖啡廳、複合式餐廳<br>聯絡電話：02-23636268<br>營業時間：08：30-17：30<br>接受袋子：紙袋<br>店家地址：台北市大安區浦城街24-1號<br>官方網站：https://www.facebook.com/pages/hi-%E6%97%A5%E6%A5%9E-Ryou-Cafe/110413699107246?sk=timeline]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            121.5267006,25.023057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>微笑修洗鞋包好室</name>
+        <description>屬性：洗包包 / 洗鞋子 / 修鞋子 / 洗皮衣 / 修包包聯絡電話：0935-583828 / 2925-8600營業時間：週一到週六 早上10：00~下午10：00/禮拜日 早上10：00~下午06：00接受袋子：紙袋店家地址：新北市永和區秀朗路一段135巷20號官方 FB：https://www.facebook.com/smile0935583828</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            121.5170988,25.0052525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>(無標題的圖層)</name>
+    </Folder>
+  </Document>
+</kml>

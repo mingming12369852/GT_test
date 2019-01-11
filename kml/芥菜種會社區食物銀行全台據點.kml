@@ -1,0 +1,3338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>芥菜種會社區食物銀行全台據點</name>
+    <description><![CDATA[我們邀請社區在地的愛心企業、店家以及民眾，就近尋找鄰近的社區食物銀行及轉運站，捐贈食物、醜蔬果、即期品、生活用品…等，幫助有需要的人，攜手打造無飢餓社區。<br>目前有超過100家社區食物銀行:<br>●  轉運站  :  接收企業、店家和民眾的愛心捐贈，幫助當地的弱勢居民，並且轉運物資到鄰近的社區食物銀行，服務幅員廣大，故也適合接收大量的物資。<br>➤  企業捐贈請連繫 陳組長 02-2592-0069#160<br>●  社區食物銀行  :  接收企業、店家和民眾的愛心捐贈，幫助當地的弱勢居民。<br>●  前去官網 https://www.mustard.org.tw/tab/937]]></description>
+    <Style id="icon-1592-FF5252-normal">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1592-FF5252-highlight">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1592-FF5252">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1592-FF5252-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1592-FF5252-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>【大台北、桃竹苗地區】</name>
+      <Placemark>
+        <name>天母豐盛社區食物銀行</name>
+        <address>台北市士林區中山北路六段726號6.7樓</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 週四、週五 PM 4:00~6:00<br>週六 AM 10:00~12:00<br><br>聯絡電話: 02-2871-2211<br>地址: 台北市士林區中山北路六段726號6.7樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週四、週五 PM 4:00~6:00
+週六 AM 10:00~12:00
+</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>02-2871-2211</value>
+          </Data>
+          <Data name="地址">
+            <value>台北市士林區中山北路六段726號6.7樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>大同社區食物銀行</name>
+        <address>台北市大同區承德路三段93號</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 每個月的第一個星期四 PM 1:00~3:00<br>聯絡電話: 02-25850941<br>地址: 台北市大同區承德路三段93號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>每個月的第一個星期四 PM 1:00~3:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>02-25850941</value>
+          </Data>
+          <Data name="地址">
+            <value>台北市大同區承德路三段93號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>活泉社區食物銀行</name>
+        <address>台北市大同區長安西路287號12樓</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 星期一、五 AM 8:30~12:00<br>星期三 PM 6:30~8:00<br><br>聯絡電話: 02-25501600<br>地址: 台北市大同區長安西路287號12樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>星期一、五 AM 8:30~12:00
+星期三 PM 6:30~8:00
+</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>02-25501600</value>
+          </Data>
+          <Data name="地址">
+            <value>台北市大同區長安西路287號12樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>神愛社區食物銀行</name>
+        <address>台北市中山區中山北路二段137巷18-13號</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 02-2581-8669<br>地址: 台北市中山區中山北路二段137巷18-13號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>02-2581-8669</value>
+          </Data>
+          <Data name="地址">
+            <value>台北市中山區中山北路二段137巷18-13號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>純福音社區食物銀行</name>
+        <address>台北市中山區松江路473號3樓</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 每月最後一週六<br>聯絡電話: 02-25017478<br>地址: 台北市中山區松江路473號3樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>每月最後一週六</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>02-25017478</value>
+          </Data>
+          <Data name="地址">
+            <value>台北市中山區松江路473號3樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>天恩堂社區食物銀行</name>
+        <address>台北市中正區中華路二段315巷27號</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 週二到周五 AM 10:00~PM 5:00<br>週日 中午12:00~PM 4:00<br><br>聯絡電話: 02-23037180<br>地址: 台北市中正區中華路二段315巷27號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二到周五 AM 10:00~PM 5:00
+週日 中午12:00~PM 4:00
+</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>02-23037180</value>
+          </Data>
+          <Data name="地址">
+            <value>台北市中正區中華路二段315巷27號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>哈利路亞社區食物銀行</name>
+        <address>台北市仁愛路三段29號B1</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 週二到周五 AM 9:00~PM 5:00<br>聯絡電話: 02-8773-1972<br>地址: 台北市仁愛路三段29號B1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二到周五 AM 9:00~PM 5:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>02-8773-1972</value>
+          </Data>
+          <Data name="地址">
+            <value>台北市仁愛路三段29號B1</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>救世軍內湖社區食物銀行</name>
+        <address>台北市內湖區內湖路一段285巷63弄7號1樓.</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 週四  14:30~17:30<br>週五  18:30~21:30<br><br>聯絡電話: 02-27990098<br>地址: 台北市內湖區內湖路一段285巷63弄7號1樓.]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週四  14:30~17:30
+週五  18:30~21:30
+</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>02-27990098</value>
+          </Data>
+          <Data name="地址">
+            <value>台北市內湖區內湖路一段285巷63弄7號1樓.</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>萬芳社區食物銀行</name>
+        <address>台北市文山區萬美街一段19巷5號1樓</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: (02)22303518<br>地址: 台北市文山區萬美街一段19巷5號1樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>(02)22303518</value>
+          </Data>
+          <Data name="地址">
+            <value>台北市文山區萬美街一段19巷5號1樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>石牌教會社區食物銀行</name>
+        <address>台北市北投區實踐街48巷3號1樓</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 周二至週四 AM 9:00~11:30、PM 1:30~4:30<br>周六 AM 9:00~11:30、PM 1:30~4:30<br><br>聯絡電話: 02-2821-0269<br>地址: 台北市北投區實踐街48巷3號1樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>周二至週四 AM 9:00~11:30、PM 1:30~4:30
+周六 AM 9:00~11:30、PM 1:30~4:30
+</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>02-2821-0269</value>
+          </Data>
+          <Data name="地址">
+            <value>台北市北投區實踐街48巷3號1樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>台北神的教會社區食物銀行</name>
+        <address>基隆市中山區西定路46-1號2樓</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 週二~周日晚餐<br>聯絡電話: 02-2422-1073<br>地址: 基隆市中山區西定路46-1號2樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二~周日晚餐</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>02-2422-1073</value>
+          </Data>
+          <Data name="地址">
+            <value>基隆市中山區西定路46-1號2樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>關渡社區食物銀行</name>
+        <address>台北市北投區關渡里大度路三段209號2樓</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 02-28586757<br>地址: 台北市北投區關渡里大度路三段209號2樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>02-28586757</value>
+          </Data>
+          <Data name="地址">
+            <value>台北市北投區關渡里大度路三段209號2樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>復生社區食物銀行</name>
+        <address>台北市南港區南深路21巷16號</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 02-27822075<br>地址: 台北市南港區南深路21巷16號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>02-27822075</value>
+          </Data>
+          <Data name="地址">
+            <value>台北市南港區南深路21巷16號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>博愛社區食物銀行</name>
+        <address>新北市三重區頂崁街220巷4號一樓</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 每週二、每週四<br>聯絡電話: 02-82876643<br>地址: 新北市三重區頂崁街220巷4號一樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>每週二、每週四</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>02-82876643</value>
+          </Data>
+          <Data name="地址">
+            <value>新北市三重區頂崁街220巷4號一樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>信望愛社區食物銀行</name>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: (02)27655919<br>地址: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>(02)27655919</value>
+          </Data>
+          <Data name="地址">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            121.5769572,25.0287024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大磐石三峽社區食物銀行</name>
+        <address>新北市三峽區民生街85號3樓</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 週一至週五 PM 6:00~8:00<br>聯絡電話: 02-26738541<br>地址: 新北市三峽區民生街85號3樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週一至週五 PM 6:00~8:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>02-26738541</value>
+          </Data>
+          <Data name="地址">
+            <value>新北市三峽區民生街85號3樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>五股靈糧社區食物銀行</name>
+        <address>新北市五股區成泰路一段237之10號</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 02-2517-1835<br>地址: 新北市五股區成泰路一段237之10號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>02-2517-1835</value>
+          </Data>
+          <Data name="地址">
+            <value>新北市五股區成泰路一段237之10號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>麗景社區食物銀行</name>
+        <address>新北市汐止區建成路56巷65號2樓</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 02-2691-7228<br>地址: 新北市汐止區建成路56巷65號2樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>02-2691-7228</value>
+          </Data>
+          <Data name="地址">
+            <value>新北市汐止區建成路56巷65號2樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>毘努伊勒社區食物銀行</name>
+        <address>新北市淡水區新民街120巷43號</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 02-2622-2766<br>地址: 新北市淡水區新民街120巷43號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>02-2622-2766</value>
+          </Data>
+          <Data name="地址">
+            <value>新北市淡水區新民街120巷43號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>麥田社區食物銀行</name>
+        <address>新北市新店區明德路34號</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 週二、五、日 AM 9:00~PM 3:00<br>聯絡電話: 02-2913-3936<br>地址: 新北市新店區明德路34號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二、五、日 AM 9:00~PM 3:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>02-2913-3936</value>
+          </Data>
+          <Data name="地址">
+            <value>新北市新店區明德路34號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>新莊社區食物銀行</name>
+        <address>新北市新莊區中正路343號B1</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 02-22021567<br>地址: 新北市新莊區中正路343號B1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>02-22021567</value>
+          </Data>
+          <Data name="地址">
+            <value>新北市新莊區中正路343號B1</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>迴龍社區食物銀行</name>
+        <address>新北市樹林區中正路724號2樓</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 每週二、每週四<br>聯絡電話: 02-26898675<br>地址: 新北市樹林區中正路724號2樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>每週二、每週四</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>02-26898675</value>
+          </Data>
+          <Data name="地址">
+            <value>新北市樹林區中正路724號2樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>七張社區食物銀行</name>
+        <address>新北市新店區中興路一段181號B1</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 周間下午<br>聯絡電話: (02)29124484<br>地址: 新北市新店區中興路一段181號B1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>周間下午</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>(02)29124484</value>
+          </Data>
+          <Data name="地址">
+            <value>新北市新店區中興路一段181號B1</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>萬華靈糧社區食物銀行</name>
+        <address>台北市萬華區桂林路31號</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 週二9:00~17:00<br>周三9:00~12:00<br>周六10:00~12:00<br><br>聯絡電話: (02)23113300<br>地址: 台北市萬華區桂林路31號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二9:00~17:00
+周三9:00~12:00
+周六10:00~12:00
+</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>(02)23113300</value>
+          </Data>
+          <Data name="地址">
+            <value>台北市萬華區桂林路31號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>三民社區食物銀行</name>
+        <address>桃園市復興區基國派三民村18鄰1號</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 每週三、周五<br>聯絡電話: 03-3825696<br>地址: 桃園市復興區基國派三民村18鄰1號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>每週三、周五</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-3825696</value>
+          </Data>
+          <Data name="地址">
+            <value>桃園市復興區基國派三民村18鄰1號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>象山社區食物銀行</name>
+        <address>台北市信義區林口街80巷37號1樓</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: (02)2759-9275<br>地址: 台北市信義區林口街80巷37號1樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>(02)2759-9275</value>
+          </Data>
+          <Data name="地址">
+            <value>台北市信義區林口街80巷37號1樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>陽明山社區食物銀行</name>
+        <address>台北市士林區華岡路47巷1號2樓</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 週二~五10:00~20:00<br>週六、日10:00-15:00<br><br>聯絡電話: (02)28610840<br>地址: 台北市士林區華岡路47巷1號2樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二~五10:00~20:00
+週六、日10:00-15:00
+</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>(02)28610840</value>
+          </Data>
+          <Data name="地址">
+            <value>台北市士林區華岡路47巷1號2樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>深坑社區食物銀行</name>
+        <address>新北市深坑區北深路三段222號</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: (02)26641637<br>地址: 新北市深坑區北深路三段222號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>(02)26641637</value>
+          </Data>
+          <Data name="地址">
+            <value>新北市深坑區北深路三段222號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>萬金社區食物銀行</name>
+        <address>新北市金山區中山路275號</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: (02)24082636<br>地址: 新北市金山區中山路275號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>(02)24082636</value>
+          </Data>
+          <Data name="地址">
+            <value>新北市金山區中山路275號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>秀山社區食物銀行</name>
+        <address>新北市中和區自強路42號</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: (02)86680175<br>地址: 新北市中和區自強路42號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>(02)86680175</value>
+          </Data>
+          <Data name="地址">
+            <value>新北市中和區自強路42號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>門諾大同社區食物銀行</name>
+        <address>台北市重慶北路三段223巷47號</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 周一、三、四、五、六、日9:00~17:00<br>聯絡電話: 0925960511<br>地址: 台北市重慶北路三段223巷47號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>周一、三、四、五、六、日9:00~17:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>0925960511</value>
+          </Data>
+          <Data name="地址">
+            <value>台北市重慶北路三段223巷47號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>明亮社區食物銀行</name>
+        <address>桃園市中壢區民有街17號1樓</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 星期二、星期四<br>聯絡電話: (03)4667530<br>地址: 桃園市中壢區民有街17號1樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>星期二、星期四</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>(03)4667530</value>
+          </Data>
+          <Data name="地址">
+            <value>桃園市中壢區民有街17號1樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>龍岡社區食物銀行</name>
+        <address>桃園市中壢區龍慈路880號</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: (03)4506772<br>地址: 桃園市中壢區龍慈路880號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>(03)4506772</value>
+          </Data>
+          <Data name="地址">
+            <value>桃園市中壢區龍慈路880號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>平鎮社區食物銀行</name>
+        <address>桃園市平鎮區東豐路101號5樓</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 03-4690418<br>地址: 桃園市平鎮區東豐路101號5樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-4690418</value>
+          </Data>
+          <Data name="地址">
+            <value>桃園市平鎮區東豐路101號5樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>台北轉運站</name>
+        <address>台北市中山區雙城街49巷6-1號</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 周一至周五早上九點至下午六點<br>聯絡電話: 02-25974868 江智惠社工<br>地址: 台北市中山區雙城街49巷6-1號]]></description>
+        <styleUrl>#icon-1592-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>周一至周五早上九點至下午六點</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>02-25974868 江智惠社工</value>
+          </Data>
+          <Data name="地址">
+            <value>台北市中山區雙城街49巷6-1號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>桃園轉運站</name>
+        <address>330桃園市桃園區公園路40號</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 周一至周五早上九點至下午六點<br>聯絡電話: 03-3330834 黃柔組長<br>地址: 330桃園市桃園區公園路40號]]></description>
+        <styleUrl>#icon-1592-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>周一至周五早上九點至下午六點</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-3330834 黃柔組長</value>
+          </Data>
+          <Data name="地址">
+            <value>330桃園市桃園區公園路40號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>僑愛轉運站</name>
+        <address>桃園市大溪區介壽路1號</address>
+        <description><![CDATA[區域: 北北基、桃竹苗地區<br>服務時間: 每週五、週日  早上九點至中午十二點<br>聯絡電話: 03-38088401 劉俊逸先生<br>地址: 桃園市大溪區介壽路1號]]></description>
+        <styleUrl>#icon-1592-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>北北基、桃竹苗地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>每週五、週日  早上九點至中午十二點</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-38088401 劉俊逸先生</value>
+          </Data>
+          <Data name="地址">
+            <value>桃園市大溪區介壽路1號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>【台中、彰化、南投地區】</name>
+      <Placemark>
+        <name>向前社區食物銀行</name>
+        <address>台中市大肚區自由路173號</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 04-26994119<br>地址: 台中市大肚區自由路173號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>04-26994119</value>
+          </Data>
+          <Data name="地址">
+            <value>台中市大肚區自由路173號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>葡萄園社區食物銀行</name>
+        <address>台中市大里區國光路二段706號</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 04-24820711<br>地址: 台中市大里區國光路二段706號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>04-24820711</value>
+          </Data>
+          <Data name="地址">
+            <value>台中市大里區國光路二段706號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>山光社區食物銀行</name>
+        <address>台中市大雅區台中市大雅區雅潭路三段412巷52弄33號</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 04-25664550<br>地址: 台中市大雅區台中市大雅區雅潭路三段412巷52弄33號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>04-25664550</value>
+          </Data>
+          <Data name="地址">
+            <value>台中市大雅區台中市大雅區雅潭路三段412巷52弄33號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>大東社區食物銀行</name>
+        <address>台中市外埔區大東里甲后路702巷16號</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 04-26881707<br>地址: 台中市外埔區大東里甲后路702巷16號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>04-26881707</value>
+          </Data>
+          <Data name="地址">
+            <value>台中市外埔區大東里甲后路702巷16號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>豐盛愛心食物銀行</name>
+        <address>台中市后里區台中市后里區三豐路333號</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 04-25587003<br>地址: 台中市后里區台中市后里區三豐路333號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>04-25587003</value>
+          </Data>
+          <Data name="地址">
+            <value>台中市后里區台中市后里區三豐路333號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>泰安社區食物銀行</name>
+        <address>台中市后里區泰安里福興路59-1號</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 04-25569629<br>地址: 台中市后里區泰安里福興路59-1號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>04-25569629</value>
+          </Data>
+          <Data name="地址">
+            <value>台中市后里區泰安里福興路59-1號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>西屯門諾社區食物銀行</name>
+        <address>台中市西屯區黎明路3段306號</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 04-27016074<br>地址: 台中市西屯區黎明路3段306號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>04-27016074</value>
+          </Data>
+          <Data name="地址">
+            <value>台中市西屯區黎明路3段306號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>忠孝社區食物銀行</name>
+        <address>台中市西區三民路一段174號3樓</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 04-22181398<br>地址: 台中市西區三民路一段174號3樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>04-22181398</value>
+          </Data>
+          <Data name="地址">
+            <value>台中市西區三民路一段174號3樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>沙鹿社區食物銀行</name>
+        <address>台中市沙鹿區四平街140號</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 04-26621446<br>地址: 台中市沙鹿區四平街140號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>04-26621446</value>
+          </Data>
+          <Data name="地址">
+            <value>台中市沙鹿區四平街140號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>山城社區食物銀行</name>
+        <address>台中市東勢區中山路28號5樓</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 04-25772119<br>地址: 台中市東勢區中山路28號5樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>04-25772119</value>
+          </Data>
+          <Data name="地址">
+            <value>台中市東勢區中山路28號5樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>大慶社區食物銀行</name>
+        <address>台中市南區復興路北路509號</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 04-22638171<br>地址: 台中市南區復興路北路509號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>04-22638171</value>
+          </Data>
+          <Data name="地址">
+            <value>台中市南區復興路北路509號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>喜樂福社區食物銀行</name>
+        <address>台中市南區福中街23號</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 04-22621240<br>地址: 台中市南區福中街23號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>04-22621240</value>
+          </Data>
+          <Data name="地址">
+            <value>台中市南區福中街23號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>新社社區食物銀行</name>
+        <address>台中市新社區中和街四段46巷1號</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 04-25280741<br>地址: 台中市新社區中和街四段46巷1號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>04-25280741</value>
+          </Data>
+          <Data name="地址">
+            <value>台中市新社區中和街四段46巷1號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>烏日社區食物銀行</name>
+        <address>台中市烏日區新興路352號</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 04-23364421<br>地址: 台中市烏日區新興路352號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>04-23364421</value>
+          </Data>
+          <Data name="地址">
+            <value>台中市烏日區新興路352號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>社頭主恩社區食物銀行</name>
+        <address>彰化縣社頭鄉民生路719號</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 星期二~五  11:00~19:00<br>聯絡電話: 04-8711007<br>地址: 彰化縣社頭鄉民生路719號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>星期二~五  11:00~19:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>04-8711007</value>
+          </Data>
+          <Data name="地址">
+            <value>彰化縣社頭鄉民生路719號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>好鄰居社區食物銀行</name>
+        <address>彰化縣田中鎮員集路二段613號</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 星期二、三、五  10:00~17:00<br>聯絡電話: 04-8761011<br>地址: 彰化縣田中鎮員集路二段613號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>星期二、三、五  10:00~17:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>04-8761011</value>
+          </Data>
+          <Data name="地址">
+            <value>彰化縣田中鎮員集路二段613號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>和睦中心社區食物銀行</name>
+        <address>台中市霧峰區育成路6號</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 04-23338470<br>地址: 台中市霧峰區育成路6號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>04-23338470</value>
+          </Data>
+          <Data name="地址">
+            <value>台中市霧峰區育成路6號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>路上教會社區食物銀行</name>
+        <address>彰化縣芳苑鄉福榮村上林路469號</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 04-8982063<br>地址: 彰化縣芳苑鄉福榮村上林路469號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>04-8982063</value>
+          </Data>
+          <Data name="地址">
+            <value>彰化縣芳苑鄉福榮村上林路469號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>二水社區食物銀行</name>
+        <address>彰化縣二水鄉聖化村拜堂巷2號</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 04-8792147<br>地址: 彰化縣二水鄉聖化村拜堂巷2號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>04-8792147</value>
+          </Data>
+          <Data name="地址">
+            <value>彰化縣二水鄉聖化村拜堂巷2號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>鹽光社區食物銀行</name>
+        <address>彰化縣芬園鄉彰南路4段231號</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 週二、四、五 PM 1:00~5:00<br>聯絡電話: 049-2510513<br>地址: 彰化縣芬園鄉彰南路4段231號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二、四、五 PM 1:00~5:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>049-2510513</value>
+          </Data>
+          <Data name="地址">
+            <value>彰化縣芬園鄉彰南路4段231號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>線西靈糧社區食物銀行</name>
+        <address>彰化縣線西鄉線西村20鄰中正路277號</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 04-7588813<br>地址: 彰化縣線西鄉線西村20鄰中正路277號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>04-7588813</value>
+          </Data>
+          <Data name="地址">
+            <value>彰化縣線西鄉線西村20鄰中正路277號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>愛加倍社區食物銀行</name>
+        <address>南投縣埔里鎮民生路117號</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 049-2906981<br>地址: 南投縣埔里鎮民生路117號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>049-2906981</value>
+          </Data>
+          <Data name="地址">
+            <value>南投縣埔里鎮民生路117號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>以便以謝社區食物銀行</name>
+        <address>南投縣埔里鎮民族四街58號</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 049-2421029<br>地址: 南投縣埔里鎮民族四街58號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>049-2421029</value>
+          </Data>
+          <Data name="地址">
+            <value>南投縣埔里鎮民族四街58號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>台中轉運站</name>
+        <address>台中市南屯區東興路二段186號9樓之1</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 周一至周五早上九點至下午六點<br>聯絡電話: 04-24719386  楊佳蓉助理<br>地址: 台中市南屯區東興路二段186號9樓之1]]></description>
+        <styleUrl>#icon-1592-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>周一至周五早上九點至下午六點</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>04-24719386  楊佳蓉助理</value>
+          </Data>
+          <Data name="地址">
+            <value>台中市南屯區東興路二段186號9樓之1</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>田中轉運站</name>
+        <address>彰化縣田中鎮復興路788號</address>
+        <description><![CDATA[區域: 台中、彰化、南投地區<br>服務時間: 週三至周六  早上十點至下午三點<br>聯絡電話: 04-8742310  劉俊宏先生<br>地址: 彰化縣田中鎮復興路788號]]></description>
+        <styleUrl>#icon-1592-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台中、彰化、南投地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週三至周六  早上十點至下午三點</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>04-8742310  劉俊宏先生</value>
+          </Data>
+          <Data name="地址">
+            <value>彰化縣田中鎮復興路788號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>【雲林、嘉義地區】</name>
+      <Placemark>
+        <name>雲彩社區食物銀行</name>
+        <address>雲林縣斗六市榮譽路160號</address>
+        <description><![CDATA[區域: 雲林、嘉義地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 05-5335031<br>地址: 雲林縣斗六市榮譽路160號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>雲林、嘉義地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>05-5335031</value>
+          </Data>
+          <Data name="地址">
+            <value>雲林縣斗六市榮譽路160號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>林頭社區食物銀行</name>
+        <address>雲林縣斗六市榮譽路205號</address>
+        <description><![CDATA[區域: 雲林、嘉義地區<br>服務時間: AM 9:00~PM 5:00，星期一休假<br>聯絡電話: 05-5322238<br>地址: 雲林縣斗六市榮譽路205號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>雲林、嘉義地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>AM 9:00~PM 5:00，星期一休假</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>05-5322238</value>
+          </Data>
+          <Data name="地址">
+            <value>雲林縣斗六市榮譽路205號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>迦南地社區食物銀行</name>
+        <address>雲林縣台西鄉海口村文化路279號</address>
+        <description><![CDATA[區域: 雲林、嘉義地區<br>服務時間: 週二至週五 AM 9:00~PM 6:00<br>聯絡電話: 05-6986515<br>地址: 雲林縣台西鄉海口村文化路279號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>雲林、嘉義地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二至週五 AM 9:00~PM 6:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>05-6986515</value>
+          </Data>
+          <Data name="地址">
+            <value>雲林縣台西鄉海口村文化路279號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>愛加倍社區食物銀行</name>
+        <address>雲林縣林內鄉新興81號</address>
+        <description><![CDATA[區域: 雲林、嘉義地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 05-5892857<br>地址: 雲林縣林內鄉新興81號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>雲林、嘉義地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>05-5892857</value>
+          </Data>
+          <Data name="地址">
+            <value>雲林縣林內鄉新興81號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>麥竂社區食物銀行</name>
+        <address>雲林縣麥寮鄉橋頭村新民街50號</address>
+        <description><![CDATA[區域: 雲林、嘉義地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 05-6915010<br>地址: 雲林縣麥寮鄉橋頭村新民街50號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>雲林、嘉義地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>05-6915010</value>
+          </Data>
+          <Data name="地址">
+            <value>雲林縣麥寮鄉橋頭村新民街50號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>恩典之家社區食物銀行</name>
+        <address>雲林縣斗南鎮大同路56號</address>
+        <description><![CDATA[區域: 雲林、嘉義地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 05-5965837<br>地址: 雲林縣斗南鎮大同路56號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>雲林、嘉義地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>05-5965837</value>
+          </Data>
+          <Data name="地址">
+            <value>雲林縣斗南鎮大同路56號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>好消息社區食物銀行</name>
+        <address>雲林縣莿桐鄉西安路22號</address>
+        <description><![CDATA[區域: 雲林、嘉義地區<br>服務時間: 週二至週五 AM 9:00~PM 6:00<br>聯絡電話: 05-5842235<br>地址: 雲林縣莿桐鄉西安路22號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>雲林、嘉義地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二至週五 AM 9:00~PM 6:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>05-5842235</value>
+          </Data>
+          <Data name="地址">
+            <value>雲林縣莿桐鄉西安路22號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>庝厝邊社區食物銀行</name>
+        <address>雲林縣口湖鄉聖安路17號</address>
+        <description><![CDATA[區域: 雲林、嘉義地區<br>服務時間: 星期二、三、五  8:00~17:00<br>聯絡電話: 05-78942311<br>地址: 雲林縣口湖鄉聖安路17號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>雲林、嘉義地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>星期二、三、五  8:00~17:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>05-78942311</value>
+          </Data>
+          <Data name="地址">
+            <value>雲林縣口湖鄉聖安路17號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>惜厝邊社區食物銀行</name>
+        <address>雲林縣北港鎮華勝路368巷2號</address>
+        <description><![CDATA[區域: 雲林、嘉義地區<br>服務時間: 星期二、三、五  8:00~17:00<br>聯絡電話: 0936577658<br>地址: 雲林縣北港鎮華勝路368巷2號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>雲林、嘉義地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>星期二、三、五  8:00~17:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>0936577658</value>
+          </Data>
+          <Data name="地址">
+            <value>雲林縣北港鎮華勝路368巷2號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>太保幸福社區食物銀行</name>
+        <address>嘉義縣太保市北新里中正路236號</address>
+        <description><![CDATA[區域: 雲林、嘉義地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 05-2384422<br>地址: 嘉義縣太保市北新里中正路236號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>雲林、嘉義地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>05-2384422</value>
+          </Data>
+          <Data name="地址">
+            <value>嘉義縣太保市北新里中正路236號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>過溝教會社區食物銀行</name>
+        <address>嘉義縣太保市過溝里過溝33號</address>
+        <description><![CDATA[區域: 雲林、嘉義地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 05-2373424<br>地址: 嘉義縣太保市過溝里過溝33號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>雲林、嘉義地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>05-2373424</value>
+          </Data>
+          <Data name="地址">
+            <value>嘉義縣太保市過溝里過溝33號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>鹿滿教會社區食物銀行</name>
+        <address>嘉義縣竹崎鄉鹿滿村鹿山路60號</address>
+        <description><![CDATA[區域: 雲林、嘉義地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 05-2611854<br>地址: 嘉義縣竹崎鄉鹿滿村鹿山路60號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>雲林、嘉義地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>05-2611854</value>
+          </Data>
+          <Data name="地址">
+            <value>嘉義縣竹崎鄉鹿滿村鹿山路60號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>番路社區食物銀行</name>
+        <address>嘉義縣番路鄉菜公店9號</address>
+        <description><![CDATA[區域: 雲林、嘉義地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 05-2591201<br>地址: 嘉義縣番路鄉菜公店9號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>雲林、嘉義地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>05-2591201</value>
+          </Data>
+          <Data name="地址">
+            <value>嘉義縣番路鄉菜公店9號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>好厝邊轉運站</name>
+        <address>雲林縣四湖鄉中山東路77-79號</address>
+        <description><![CDATA[區域: 雲林、嘉義地區<br>服務時間: 週二、週五全天<br>聯絡電話: 05-7877651  陳聖祿先生<br>地址: 雲林縣四湖鄉中山東路77-79號]]></description>
+        <styleUrl>#icon-1592-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>雲林、嘉義地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二、週五全天</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>05-7877651  陳聖祿先生</value>
+          </Data>
+          <Data name="地址">
+            <value>雲林縣四湖鄉中山東路77-79號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>嘉義東門轉運站</name>
+        <address>嘉義市東區共和路236號</address>
+        <description><![CDATA[區域: 雲林、嘉義地區<br>服務時間: 週一至週四上午九點至十二點、下午兩點至五點<br>聯絡電話: 05-2227467  呂姿蓉小姐<br>地址: 嘉義市東區共和路236號]]></description>
+        <styleUrl>#icon-1592-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>雲林、嘉義地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週一至週四上午九點至十二點、下午兩點至五點</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>05-2227467  呂姿蓉小姐</value>
+          </Data>
+          <Data name="地址">
+            <value>嘉義市東區共和路236號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>【台南地區】</name>
+      <Placemark>
+        <name>博愛關懷社區食物銀行</name>
+        <address>台南市下營區新北街217號</address>
+        <description><![CDATA[區域: 台南地區<br>服務時間: 週二至週日 AM 10:00~PM 5:00<br>聯絡電話: 06-6899697<br>地址: 台南市下營區新北街217號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台南地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二至週日 AM 10:00~PM 5:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>06-6899697</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市下營區新北街217號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>ihope社區食物銀行</name>
+        <address>台南市中西區民族路二段135號</address>
+        <description><![CDATA[區域: 台南地區<br>服務時間: 每天 AM 2:00~PM 6:00（課輔班學生家庭優先）<br>聯絡電話: 06-2215400<br>地址: 台南市中西區民族路二段135號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台南地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>每天 AM 2:00~PM 6:00（課輔班學生家庭優先）</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>06-2215400</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市中西區民族路二段135號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>火種子社區食物銀行</name>
+        <address>台南市永康區中華路196之15號6樓</address>
+        <description><![CDATA[區域: 台南地區<br>服務時間: 周一至周五 AM 11:00~PM 1:00，其餘時間電聯<br>聯絡電話: 06-3126718<br>地址: 台南市永康區中華路196之15號6樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台南地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>周一至周五 AM 11:00~PM 1:00，其餘時間電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>06-3126718</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市永康區中華路196之15號6樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>橄欖園社區食物銀行</name>
+        <address>台南市永康區中華路214巷5號</address>
+        <description><![CDATA[區域: 台南地區<br>服務時間: AM 10:00~12:00、PM 1:00~8:00<br>聯絡電話: 06-3124773<br>地址: 台南市永康區中華路214巷5號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台南地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>AM 10:00~12:00、PM 1:00~8:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>06-3124773</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市永康區中華路214巷5號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>加利利社區食物銀行</name>
+        <address>台南市玉井區三埔里83之1號</address>
+        <description><![CDATA[區域: 台南地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 06-5743941<br>地址: 台南市玉井區三埔里83之1號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台南地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>06-5743941</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市玉井區三埔里83之1號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>白水溪社區食物銀行</name>
+        <address>台南市白河區仙草里12鄰白水溪26-4號</address>
+        <description><![CDATA[區域: 台南地區<br>服務時間: 週一、二、四 AM 9:00~12:00，請先電聯。<br>聯絡電話: 06-6854846<br>地址: 台南市白河區仙草里12鄰白水溪26-4號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台南地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週一、二、四 AM 9:00~12:00，請先電聯。</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>06-6854846</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市白河區仙草里12鄰白水溪26-4號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>愛鄰舍社區食物銀行</name>
+        <address>台南市東山區台南市東山區中興路175號</address>
+        <description><![CDATA[區域: 台南地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 06-6800549<br>地址: 台南市東山區台南市東山區中興路175號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台南地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>06-6800549</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市東山區台南市東山區中興路175號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>以琳之家社區食物銀行</name>
+        <address>台南市東區台南市東區府連路181號</address>
+        <description><![CDATA[區域: 台南地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 06-2149735<br>地址: 台南市東區台南市東區府連路181號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台南地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>06-2149735</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市東區台南市東區府連路181號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>雅比斯社區食物銀行</name>
+        <address>台南市東區府連東路2號4樓</address>
+        <description><![CDATA[區域: 台南地區<br>服務時間: 週一至週五 AM 2:00~6:00（教會課輔班學生家庭優先）<br>聯絡電話: 06-2007985<br>地址: 台南市東區府連東路2號4樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台南地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週一至週五 AM 2:00~6:00（教會課輔班學生家庭優先）</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>06-2007985</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市東區府連東路2號4樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>純福音社區食物銀行</name>
+        <address>台南市東區東門路二段96號2樓</address>
+        <description><![CDATA[區域: 台南地區<br>服務時間: 周日 PM 1:00~3:00，其餘時間請電聯<br>聯絡電話: 06-2082833<br>地址: 台南市東區東門路二段96號2樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台南地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>周日 PM 1:00~3:00，其餘時間請電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>06-2082833</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市東區東門路二段96號2樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>台南平安堂社區食物銀行</name>
+        <address>台南市東區裕農路375號3樓</address>
+        <description><![CDATA[區域: 台南地區<br>服務時間: 週二至週五  18：00~18：30<br>聯絡電話: 06-2369948<br>地址: 台南市東區裕農路375號3樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台南地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二至週五  18：00~18：30</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>06-2369948</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市東區裕農路375號3樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>大道善牧堂社區食物銀行</name>
+        <description><![CDATA[區域: 台南地區<br>服務時間: 週二至週五  16:00~18:30<br>聯絡電話: 06-2515504<br>地址: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台南地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二至週五  16:00~18:30</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>06-2515504</value>
+          </Data>
+          <Data name="地址">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            120.2416746,23.0093424,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>協同會新營教會社區食物銀行</name>
+        <address>台南市新營區三民路68-12號</address>
+        <description><![CDATA[區域: 台南地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 06-6327165<br>地址: 台南市新營區三民路68-12號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台南地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>06-6327165</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市新營區三民路68-12號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>新福社區食物銀行</name>
+        <address>台南市新營區中山路140-1號</address>
+        <description><![CDATA[區域: 台南地區<br>服務時間: 每天 AM 10:00~PM 6:00<br>聯絡電話: 06-6325931<br>地址: 台南市新營區中山路140-1號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台南地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>每天 AM 10:00~PM 6:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>06-6325931</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市新營區中山路140-1號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>榮祈社區食物銀行</name>
+        <address>台南市龍崎區崎頂里新市子87號</address>
+        <description><![CDATA[區域: 台南地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 06-2661442<br>地址: 台南市龍崎區崎頂里新市子87號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台南地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>06-2661442</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市龍崎區崎頂里新市子87號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>房角石社區食物銀行</name>
+        <address>台南市歸仁區中山路三段97號之1</address>
+        <description><![CDATA[區域: 台南地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 06-2301213<br>地址: 台南市歸仁區中山路三段97號之1]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台南地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>06-2301213</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市歸仁區中山路三段97號之1</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>台南大光轉運站</name>
+        <address>台南市北區長榮路五段406巷28號</address>
+        <description><![CDATA[區域: 台南地區<br>服務時間: 收貨：週一、二、週四上午9:00-12:00<br>出貨：週一、二、週四下午2:00-5:00<br><br>聯絡電話: 06-2519670#108  林淑娥小姐<br>地址: 台南市北區長榮路五段406巷28號]]></description>
+        <styleUrl>#icon-1592-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>台南地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>收貨：週一、二、週四上午9:00-12:00
+出貨：週一、二、週四下午2:00-5:00
+</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>06-2519670#108  林淑娥小姐</value>
+          </Data>
+          <Data name="地址">
+            <value>台南市北區長榮路五段406巷28號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>【高雄、屏東地區】</name>
+      <Placemark>
+        <name>三民社區食物銀行</name>
+        <address>高雄市三民區重慶街55號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 週二~週五  AM 9:30~12:00、PM 2:00~4:30<br>聯絡電話: 07-322-1263<br>地址: 高雄市三民區重慶街55號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二~週五  AM 9:30~12:00、PM 2:00~4:30</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>07-322-1263</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市三民區重慶街55號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>磐石社區食物銀行</name>
+        <address>高雄市大寮區內厝路112號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 每月第四週週六  PM 2:30~4:30<br>聯絡電話: 07-7816555<br>地址: 高雄市大寮區內厝路112號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>每月第四週週六  PM 2:30~4:30</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>07-7816555</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市大寮區內厝路112號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>大寮社區食物銀行</name>
+        <address>高雄市大寮區鳳林三路373巷9號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: (需先來電與服務人員確定時間)<br>週一~週五 AM 9:00~PM 6:00<br>週六週日 中午12:00~PM 5:00<br><br>聯絡電話: 07-7813365<br>地址: 高雄市大寮區鳳林三路373巷9號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>(需先來電與服務人員確定時間)
+週一~週五 AM 9:00~PM 6:00
+週六週日 中午12:00~PM 5:00
+</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>07-7813365</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市大寮區鳳林三路373巷9號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>大光社區食物銀行</name>
+        <address>高雄市那瑪夏區達卡努瓦里大光巷116號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 週三 AM 9:00~PM 5:00<br>聯絡電話: 07-670-1502<br>地址: 高雄市那瑪夏區達卡努瓦里大光巷116號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週三 AM 9:00~PM 5:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>07-670-1502</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市那瑪夏區達卡努瓦里大光巷116號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>活泉愛鄰社區食物銀行</name>
+        <address>高雄市鳳山區誠東街1號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 週一到週五 AM 8:00~PM 6:00<br>聯絡電話: 07-7552552<br>地址: 高雄市鳳山區誠東街1號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週一到週五 AM 8:00~PM 6:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>07-7552552</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市鳳山區誠東街1號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>岡山恩光社區食物銀行</name>
+        <address>高雄市岡山區大義二路326號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 07-6258098<br>地址: 高雄市岡山區大義二路326號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>07-6258098</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市岡山區大義二路326號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>阿蓮社區食物銀行</name>
+        <address>高雄市阿蓮區文學二街56號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 07-631-0621<br>地址: 高雄市阿蓮區文學二街56號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>07-631-0621</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市阿蓮區文學二街56號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>手語之家社區食物銀行</name>
+        <address>高雄市前金區中正四路184號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 週二~六 PM 1:30~5:00<br>週日 中午12:00~PM 3:00<br><br>聯絡電話: 07-2413761<br>地址: 高雄市前金區中正四路184號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二~六 PM 1:30~5:00
+週日 中午12:00~PM 3:00
+</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>07-2413761</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市前金區中正四路184號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>茄萣社區食物銀行</name>
+        <address>高雄市茄萣區和協里港埔路101號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 07-690-2362<br>地址: 高雄市茄萣區和協里港埔路101號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>07-690-2362</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市茄萣區和協里港埔路101號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>鳥松社區食物銀行</name>
+        <address>高雄市鳥松區大仁南路1號2F</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 週一~週五  PM 1:00~7:00<br>聯絡電話: 07-733-6469<br>地址: 高雄市鳥松區大仁南路1號2F]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週一~週五  PM 1:00~7:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>07-733-6469</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市鳥松區大仁南路1號2F</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>仁美社區食物銀行</name>
+        <address>高雄市鳥松區仁美里介壽路14號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 周一~周五  AM 9:30~PM 6:30<br>聯絡電話: 07-7313037<br>地址: 高雄市鳥松區仁美里介壽路14號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>周一~周五  AM 9:30~PM 6:30</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>07-7313037</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市鳥松區仁美里介壽路14號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>恩惠社區食物銀行</name>
+        <address>高雄市楠梓區壽豐路438號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 週二~六  AM 9:00~12:00、PM 2:00~6:000<br>聯絡電話: 07-360-3016<br>地址: 高雄市楠梓區壽豐路438號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二~六  AM 9:00~12:00、PM 2:00~6:000</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>07-360-3016</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市楠梓區壽豐路438號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>天泉社區食物銀行</name>
+        <address>高雄市鼓山區中華一路125號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 07-586-8311<br>地址: 高雄市鼓山區中華一路125號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>07-586-8311</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市鼓山區中華一路125號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>旗循社區食物銀行</name>
+        <address>高雄市旗山區瑞吉里旗文路2號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 07-6623358<br>地址: 高雄市旗山區瑞吉里旗文路2號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>07-6623358</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市旗山區瑞吉里旗文路2號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>鳳山社區食物銀行</name>
+        <address>高雄市鳳山區東門里誠德街123號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 每週四  PM 6:00~7:00<br>聯絡電話: 07-7013566<br>地址: 高雄市鳳山區東門里誠德街123號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>每週四  PM 6:00~7:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>07-7013566</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市鳳山區東門里誠德街123號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>新甲社區食物銀行</name>
+        <address>高雄市鳳山區新強路327號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 07-7661912<br>地址: 高雄市鳳山區新強路327號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>07-7661912</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市鳳山區新強路327號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>駁二社區食物銀行</name>
+        <address>高雄市鹽埕區莒光街67號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 週二、四  PM 2:00~6:00<br>有需要可以送物資到家，事先預約皆可配合0911000453<br><br>聯絡電話: 07-5214550<br>地址: 高雄市鹽埕區莒光街67號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二、四  PM 2:00~6:00
+有需要可以送物資到家，事先預約皆可配合0911000453
+</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>07-5214550</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市鹽埕區莒光街67號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>生命之光社區食物銀行</name>
+        <address>屏東縣內埔鄉龍潭村昭勝路516號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 週二至週五  AM 9:00~PM 6:00<br>聯絡電話: 08-770-0959<br>地址: 屏東縣內埔鄉龍潭村昭勝路516號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二至週五  AM 9:00~PM 6:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>08-770-0959</value>
+          </Data>
+          <Data name="地址">
+            <value>屏東縣內埔鄉龍潭村昭勝路516號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>譜力姆社區食物銀行</name>
+        <address>屏東縣牡丹鄉石門村中興路</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 週二至週五，上午9點到下午六點。<br>聯絡電話: 08-883-1283<br>地址: 屏東縣牡丹鄉石門村中興路]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二至週五，上午9點到下午六點。</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>08-883-1283</value>
+          </Data>
+          <Data name="地址">
+            <value>屏東縣牡丹鄉石門村中興路</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>愛心社區食物銀行</name>
+        <address>屏東縣牡丹鄉牡丹村147號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 週四  PM 6:00~7:00<br>周日  AM 11:30~PM 1:00<br><br>聯絡電話: 08-883-0277<br>地址: 屏東縣牡丹鄉牡丹村147號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週四  PM 6:00~7:00
+周日  AM 11:30~PM 1:00
+</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>08-883-0277</value>
+          </Data>
+          <Data name="地址">
+            <value>屏東縣牡丹鄉牡丹村147號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>雙流社區食物銀行</name>
+        <address>屏東縣獅子鄉草埔村十鄰19號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 週二、四、六   15:00~17:00<br>聯絡電話: 08-8701237<br>地址: 屏東縣獅子鄉草埔村十鄰19號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二、四、六   15:00~17:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>08-8701237</value>
+          </Data>
+          <Data name="地址">
+            <value>屏東縣獅子鄉草埔村十鄰19號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>恩主堂社區食物銀行</name>
+        <address>屏東縣屏東市大連路10巷8號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 每週二、四、五、六  AM 9:00~PM 5:00<br>聯絡電話: 08-7368308<br>地址: 屏東縣屏東市大連路10巷8號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>每週二、四、五、六  AM 9:00~PM 5:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>08-7368308</value>
+          </Data>
+          <Data name="地址">
+            <value>屏東縣屏東市大連路10巷8號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>恆原社區食物銀行</name>
+        <address>屏東縣恆春鎮恆北路一巷89弄2號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 08-888-1139<br>地址: 屏東縣恆春鎮恆北路一巷89弄2號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>08-888-1139</value>
+          </Data>
+          <Data name="地址">
+            <value>屏東縣恆春鎮恆北路一巷89弄2號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>黎明社區食物銀行</name>
+        <address>屏東縣內埔鄉黎明村黎東路653巷5-1號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 週一至週五  9:00~20:00<br>聯絡電話: 08-7707718<br>地址: 屏東縣內埔鄉黎明村黎東路653巷5-1號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週一至週五  9:00~20:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>08-7707718</value>
+          </Data>
+          <Data name="地址">
+            <value>屏東縣內埔鄉黎明村黎東路653巷5-1號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>楠梓社區食物銀行</name>
+        <address>高雄市楠梓區建楠路139號2樓</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 07-3525354<br>地址: 高雄市楠梓區建楠路139號2樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>07-3525354</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市楠梓區建楠路139號2樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>泰山社區食物銀行</name>
+        <address>屏東縣高樹鄉泰山村產業路144號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 無<br>地址: 屏東縣高樹鄉泰山村產業路144號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>無</value>
+          </Data>
+          <Data name="地址">
+            <value>屏東縣高樹鄉泰山村產業路144號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>楓林社區食物銀行</name>
+        <address>屏東縣獅子鄉楓林村2巷6號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 週二至週五  10:00~17:00<br>聯絡電話: 08-8771060<br>地址: 屏東縣獅子鄉楓林村2巷6號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二至週五  10:00~17:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>08-8771060</value>
+          </Data>
+          <Data name="地址">
+            <value>屏東縣獅子鄉楓林村2巷6號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>愛幸福社區食物銀行</name>
+        <address>屏東縣新園鄉共和村永和路61號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 08-8323150<br>地址: 屏東縣新園鄉共和村永和路61號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>08-8323150</value>
+          </Data>
+          <Data name="地址">
+            <value>屏東縣新園鄉共和村永和路61號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>下坑社區食物銀行</name>
+        <address>高雄市路竹區新生路34巷 35之2號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 07-6951998<br>地址: 高雄市路竹區新生路34巷 35之2號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>07-6951998</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市路竹區新生路34巷 35之2號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>竹坑社區食物銀行</name>
+        <address>屏東縣獅子鄉竹坑村139號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 週二至週五  AM 9:00~PM 6:00<br>聯絡電話: 08-8770092<br>地址: 屏東縣獅子鄉竹坑村139號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二至週五  AM 9:00~PM 6:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>08-8770092</value>
+          </Data>
+          <Data name="地址">
+            <value>屏東縣獅子鄉竹坑村139號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>高雄轉運站</name>
+        <address>高雄市鼓山區中華一路336號9樓之3</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 週一至週五上午09:30~12:00<br>週一至週五下午01:00~06:00<br>聯絡電話: 07-5529645   曾倩瑩助理<br>地址: 高雄市鼓山區中華一路336號9樓之3]]></description>
+        <styleUrl>#icon-1592-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週一至週五上午09:30~12:00
+週一至週五下午01:00~06:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>07-5529645   曾倩瑩助理</value>
+          </Data>
+          <Data name="地址">
+            <value>高雄市鼓山區中華一路336號9樓之3</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>海口人轉運站</name>
+        <address>屏東縣東港鎮興東里興東路201號</address>
+        <description><![CDATA[區域: 高雄、屏東地區<br>服務時間: 週二至週六上午九點至下午六點<br>聯絡電話: 08-8338610  曾鴻志先生<br>地址: 屏東縣東港鎮興東里興東路201號]]></description>
+        <styleUrl>#icon-1592-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>高雄、屏東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二至週六上午九點至下午六點</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>08-8338610  曾鴻志先生</value>
+          </Data>
+          <Data name="地址">
+            <value>屏東縣東港鎮興東里興東路201號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>【花蓮、台東地區】</name>
+      <Placemark>
+        <name>北昌社區食物銀行</name>
+        <address>花蓮市中央路三段672號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 03-8573550<br>地址: 花蓮市中央路三段672號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-8573550</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮市中央路三段672號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>托瓦本社區社食物銀行</name>
+        <address>花蓮市民孝里華東86之1號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 0937-166372<br>地址: 花蓮市民孝里華東86之1號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>0937-166372</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮市民孝里華東86之1號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>都信社區食物銀行</name>
+        <address>花蓮市民勤里新興路45號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 03-8349781<br>地址: 花蓮市民勤里新興路45號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-8349781</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮市民勤里新興路45號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>美崙社區食物行</name>
+        <address>花蓮市府前74號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 03-8547280<br>地址: 花蓮市府前74號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-8547280</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮市府前74號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>奇美社區食物銀行</name>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 週二~週五   AM 9:00~PM 6:00<br>聯絡電話: 03-8991063<br>地址: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二~週五   AM 9:00~PM 6:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-8991063</value>
+          </Data>
+          <Data name="地址">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            121.4452625,23.494193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>球崙社區食物銀行</name>
+        <address>花蓮市府前路600號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 03-8221807<br>地址: 花蓮市府前路600號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-8221807</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮市府前路600號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>進豐社區食物銀行</name>
+        <address>花蓮市國防里明智街128號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 週日  AM 10:30~11:15<br>聯絡電話: 03-8264463<br>地址: 花蓮市國防里明智街128號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週日  AM 10:30~11:15</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-8264463</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮市國防里明智街128號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>博愛社區食物銀行</name>
+        <address>花蓮市博愛街81號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 週一至週五  AM 09:00~PM 6:00<br>聯絡電話: 03-8320070<br>地址: 花蓮市博愛街81號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週一至週五  AM 09:00~PM 6:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-8320070</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮市博愛街81號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>亞倫社區食物銀行</name>
+        <address>花蓮市富陽路22號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 週一~週五  PM 3:30~7:30<br>聯絡電話: 03-8221807<br>地址: 花蓮市富陽路22號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週一~週五  PM 3:30~7:30</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-8221807</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮市富陽路22號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>加禮洞社區食物銀行</name>
+        <address>花蓮縣光復鄉東富村東富路92巷9弄13號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 週一至週五  AM 9:00~PM 6:00<br>聯絡電話: 03-8700671<br>地址: 花蓮縣光復鄉東富村東富路92巷9弄13號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週一至週五  AM 9:00~PM 6:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-8700671</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮縣光復鄉東富村東富路92巷9弄13號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>仁和社區食物銀行</name>
+        <address>花蓮縣吉安鄉仁和村南海十一街221號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 週一至週五  PM 3:00- 6:00<br>聯絡電話: 03-8420224<br>地址: 花蓮縣吉安鄉仁和村南海十一街221號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週一至週五  PM 3:00- 6:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-8420224</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮縣吉安鄉仁和村南海十一街221號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>316新人教會社區食物銀行</name>
+        <address>花蓮縣吉安鄉永興村永興九街68號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 週三至周六  AM 10:00~PM 3:00<br>聯絡電話: 03-8539969<br>地址: 花蓮縣吉安鄉永興村永興九街68號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週三至周六  AM 10:00~PM 3:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-8539969</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮縣吉安鄉永興村永興九街68號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>全民社區食物銀行</name>
+        <address>花蓮縣吉安鄉永興村全民街6號2樓</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 03-8538107<br>地址: 花蓮縣吉安鄉永興村全民街6號2樓]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-8538107</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮縣吉安鄉永興村全民街6號2樓</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南華社區食物銀行</name>
+        <address>花蓮縣吉安鄉吉安五段246號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 03-8541484<br>地址: 花蓮縣吉安鄉吉安五段246號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-8541484</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮縣吉安鄉吉安五段246號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>陶樸閣社區食物銀行</name>
+        <address>花蓮縣秀林鄉秀林村民有58號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 週五至週日  PM 2:00~4:00<br>聯絡電話: 038-612475<br>地址: 花蓮縣秀林鄉秀林村民有58號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週五至週日  PM 2:00~4:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>038-612475</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮縣秀林鄉秀林村民有58號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>格督善社區食物銀行</name>
+        <address>花蓮縣秀林鄉佳民村57號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 03-8266260<br>地址: 花蓮縣秀林鄉佳民村57號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-8266260</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮縣秀林鄉佳民村57號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>克尼布社區食物銀行</name>
+        <address>花蓮縣秀林鄉和平村2鄰72號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 03-8681151<br>地址: 花蓮縣秀林鄉和平村2鄰72號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-8681151</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮縣秀林鄉和平村2鄰72號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>幸福社區食物銀行</name>
+        <address>台東市中華路四段131巷255號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 089-346093<br>地址: 台東市中華路四段131巷255號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>089-346093</value>
+          </Data>
+          <Data name="地址">
+            <value>台東市中華路四段131巷255號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>卡來萬社區食物銀行</name>
+        <address>花蓮縣新城鄉嘉里村嘉里二街74號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 週一至週五  AM 9:00~PM 6:00<br>聯絡電話: 03-8262511<br>地址: 花蓮縣新城鄉嘉里村嘉里二街74號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週一至週五  AM 9:00~PM 6:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-8262511</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮縣新城鄉嘉里村嘉里二街74號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>奇美社區食物銀行</name>
+        <address>花蓮縣瑞穗鄉奇美村</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 週二-週五,上午9:00-18:00<br>聯絡電話: 03-8991063<br>地址: 花蓮縣瑞穗鄉奇美村]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週二-週五,上午9:00-18:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-8991063</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮縣瑞穗鄉奇美村</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>水璉社區食物銀行</name>
+        <address>花蓮縣壽豐鄉水璉村水璉60號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 03-8601809<br>地址: 花蓮縣壽豐鄉水璉村水璉60號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-8601809</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮縣壽豐鄉水璉村水璉60號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>榮耀社區食物銀行</name>
+        <address>臺東市中華路4段861巷200之1號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 週一至週五  中午12:40~PM 6:00<br>聯絡電話: 089-349205<br>地址: 臺東市中華路4段861巷200之1號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週一至週五  中午12:40~PM 6:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>089-349205</value>
+          </Data>
+          <Data name="地址">
+            <value>臺東市中華路4段861巷200之1號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>非拉鐵非社區食物銀行</name>
+        <address>臺東市北安街88號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 089-235700<br>地址: 臺東市北安街88號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>089-235700</value>
+          </Data>
+          <Data name="地址">
+            <value>臺東市北安街88號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>宜昌教會社區食物銀行</name>
+        <address>花蓮縣吉安鄉宜昌二街35號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 03-8520010<br>地址: 花蓮縣吉安鄉宜昌二街35號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-8520010</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮縣吉安鄉宜昌二街35號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>倫理堂玉里教會社區食物銀行</name>
+        <address>花蓮縣玉里鎮五權街7號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 週一至週五 17:00~18:00<br>聯絡電話: 03-8882814<br>地址: 花蓮縣玉里鎮五權街7號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週一至週五 17:00~18:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-8882814</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮縣玉里鎮五權街7號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>知本長老教會社區食物銀行</name>
+        <address>台東市建業里知本路三段562號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 089-512584<br>地址: 台東市建業里知本路三段562號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>089-512584</value>
+          </Data>
+          <Data name="地址">
+            <value>台東市建業里知本路三段562號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>加典社區食物銀行</name>
+        <address>台東縣關山鎮隆盛路178號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 089-812131<br>地址: 台東縣關山鎮隆盛路178號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>089-812131</value>
+          </Data>
+          <Data name="地址">
+            <value>台東縣關山鎮隆盛路178號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>美雅麥部落食物銀行</name>
+        <address>花蓮縣吉安鄉太昌村明義七街36號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 03-8561273<br>地址: 花蓮縣吉安鄉太昌村明義七街36號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-8561273</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮縣吉安鄉太昌村明義七街36號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Masblu社區食物銀行</name>
+        <address>台東縣長濱鄉三間村南溪46號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 週六  14:00~18:00<br>週日  08:00~16:00<br><br>聯絡電話: 089-881031<br>地址: 台東縣長濱鄉三間村南溪46號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週六  14:00~18:00
+週日  08:00~16:00
+</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>089-881031</value>
+          </Data>
+          <Data name="地址">
+            <value>台東縣長濱鄉三間村南溪46號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>恩典社區食物銀行</name>
+        <address>台東縣達仁鄉土坂村三鄰48-1號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 089-761626<br>地址: 台東縣達仁鄉土坂村三鄰48-1號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>089-761626</value>
+          </Data>
+          <Data name="地址">
+            <value>台東縣達仁鄉土坂村三鄰48-1號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Arise社區食物銀行</name>
+        <address>臺東市台東縣台東市四維路3段61號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 週一至周五  PM 3:00~5:00<br>聯絡電話: 089-356060<br>地址: 臺東市台東縣台東市四維路3段61號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週一至周五  PM 3:00~5:00</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>089-356060</value>
+          </Data>
+          <Data name="地址">
+            <value>臺東市台東縣台東市四維路3段61號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>達瑪拉告教會社區食物銀行</name>
+        <address>臺東縣卑南鄉泰安村111之1號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 無固定服務時間，請先電聯<br>聯絡電話: 089-382070<br>地址: 臺東縣卑南鄉泰安村111之1號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>無固定服務時間，請先電聯</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>089-382070</value>
+          </Data>
+          <Data name="地址">
+            <value>臺東縣卑南鄉泰安村111之1號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>花蓮轉運站</name>
+        <address>花蓮縣新城鄉北埔村北埔路13號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 週一到週五上午9點到下午6點 <br>聯絡電話: 03-8262021   王百加社工<br>地址: 花蓮縣新城鄉北埔村北埔路13號]]></description>
+        <styleUrl>#icon-1592-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週一到週五上午9點到下午6點 </value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>03-8262021   王百加社工</value>
+          </Data>
+          <Data name="地址">
+            <value>花蓮縣新城鄉北埔村北埔路13號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>基督豐盛轉運站</name>
+        <address>台東縣臺東市中興路二段160號</address>
+        <description><![CDATA[區域: 花蓮、台東地區<br>服務時間: 週一至週六上午八時至下午四時<br>週日上午八時至下午二時<br><br>聯絡電話: 089-233691   房治華專員<br>地址: 台東縣臺東市中興路二段160號]]></description>
+        <styleUrl>#icon-1592-FF5252</styleUrl>
+        <ExtendedData>
+          <Data name="區域">
+            <value>花蓮、台東地區</value>
+          </Data>
+          <Data name="服務時間">
+            <value>週一至週六上午八時至下午四時
+週日上午八時至下午二時
+</value>
+          </Data>
+          <Data name="聯絡電話">
+            <value>089-233691   房治華專員</value>
+          </Data>
+          <Data name="地址">
+            <value>台東縣臺東市中興路二段160號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
