@@ -18,52 +18,8 @@
   <!-- // UI -->
   <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-app.js"></script>
   <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-database.js"></script>
-  <script>
-    var car;
-    // Initialize Firebase
-    var config = {
-      apiKey: "AIzaSyAqYl6dIpW_NFebL0CMd2_OHkFvADgtz1Y",
-      authDomain: "g0v-map.firebaseapp.com",
-      databaseURL: "https://g0v-map.firebaseio.com",
-      projectId: "g0v-map",
-      storageBucket: "g0v-map.appspot.com",
-      messagingSenderId: "281036286954"
-    };
+  <script src="http://127.0.0.1/html_/g0v-GT/GT_test/js/openPointData.js"></script>
 
-
-    firebase.initializeApp(config);
-
-
-    // var Data = {
-    //   "name": "123",
-    //   "phone": "0912345678123"
-    // }
-    // firebase.database().ref("/member").push(Data);
-
-function getdata(){
-
-}
-    firebase.database().ref("/features/").on('value', function(data) {
-
-      car = data.val();
-
-      for (var i = 0; i < car.length; i++) {
-        var marker = L.marker([car[i].geometry.coordinates[1], car[i].geometry.coordinates[0]]).addTo(map);
-      }
-
-      // console.log(car[1].geometry.coordinates[1],car[1].geometry.coordinates[0]);
-
-
-
-      // console.log(data.val().mobile());
-      // $.each(data.val(), function(k, v) {
-      //   console.log(v);
-      //   console.log(v.addr);
-      // })
-    });
-  </script>
-
-  <!-- //database -->
 
   <style type="text/css">
     html,
@@ -79,26 +35,7 @@ function getdata(){
       width: auto;
     }
   </style>
-  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDjYwDw3x3Pt9NQ-01nMXHS_vK0sFlk4bo">
-  </script>
-  <script type="text/javascript">
-    function initialize() {
-      var mapOptions = {
-        center: {
-          lat: -34.397,
-          lng: 150.644
-        },
-        zoom: 8
-      };
 
-      var map = new google.maps.Map(
-        document.getElementById('map-canvas'),
-        mapOptions);
-
-    }
-    google.maps.event.addDomListener(
-      window, 'load', initialize);
-  </script>
 
 </head>
 
@@ -190,9 +127,6 @@ function getdata(){
           // 建立 Leaflet 地圖
           var map = L.map('mapid');
 
-          // 設定經緯度座標
-
-
           map.setView(new L.LatLng(22.992, 120.239), 12);
 
           // 設定圖資來源
@@ -202,12 +136,6 @@ function getdata(){
             maxZoom: 16
           });
           map.addLayer(osm);
-
-
-          for (var i = 0; i < car.length; i++) {
-
-            // var marker = L.marker([car[i].geometry.coordinates[1], car[i].geometry.coordinates[0]]).addTo(map);
-          }
         </script>
 
       </div>
@@ -215,7 +143,9 @@ function getdata(){
     </div>
   </div>
 
-
+  <button type="button" onclick="getData('City_repair_station')" name="button">修理</button>
+  <button type="button" onclick="getData('Free_store')" name="button"></button>
+  <button type="button" onclick="Clear()" name="button"></button>
 </body>
 
 </html>

@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>2018惜食餐廳名單與地圖</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-424242-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-424242-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-424242">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-424242-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-424242-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-9C27B0-normal">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-highlight">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-9C27B0">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-9C27B0-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-9C27B0-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>新北市</name>
+      <Placemark>
+        <name>貓嘰咕自家烘焙咖啡</name>
+        <address>新北市板橋區文化路一段270巷3弄40號</address>
+        <description><![CDATA[地址: 新北市板橋區文化路一段270巷3弄40號<br>連絡電話: 02-8259-5556<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享<br>惜食理念/餐廳介紹: 不為了餐食美觀而浪費食材，能利用能吃的一律加入料理中，貴賓未食用完之餐點，主動詢問是否打包，盡可能使用在地食材！]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>新北市板橋區文化路一段270巷3弄40號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-8259-5556</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>不為了餐食美觀而浪費食材，能利用能吃的一律加入料理中，貴賓未食用完之餐點，主動詢問是否打包，盡可能使用在地食材！</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>原粹蔬食作</name>
+        <address>新北市新店區寶安街58巷2號一樓</address>
+        <description><![CDATA[地址: 新北市新店區寶安街58巷2號一樓<br>連絡電話: 02-89147185<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 優先使用格外品、依不同需求提供顧客分量與食材、發揮創意將食材使用到淋漓盡致，是我們為惜食能盡的一點心力。2018年起更開辦不同烹飪教學，以格外品為主軸，設計一系列相關課程，希望能讓格外品真正進入每個家庭。]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>新北市新店區寶安街58巷2號一樓</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-89147185</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>優先使用格外品、依不同需求提供顧客分量與食材、發揮創意將食材使用到淋漓盡致，是我們為惜食能盡的一點心力。2018年起更開辦不同烹飪教學，以格外品為主軸，設計一系列相關課程，希望能讓格外品真正進入每個家庭。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>布拉德施維根廚房</name>
+        <address>新北市中和區南華路29號</address>
+        <description><![CDATA[地址: 新北市中和區南華路29號<br>連絡電話: 02-82459693<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 布拉德施維根廚房唯一間純素食餐廳，長期關心環保議題，店內的餐點幾乎都是現點現做，避免煮太多容易變質，並且提供器皿鼓勵客人打包，不只珍惜食物，更減少垃圾的產生。]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>新北市中和區南華路29號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-82459693</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>布拉德施維根廚房唯一間純素食餐廳，長期關心環保議題，店內的餐點幾乎都是現點現做，避免煮太多容易變質，並且提供器皿鼓勵客人打包，不只珍惜食物，更減少垃圾的產生。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>魚缸珈琲館</name>
+        <address>新北市蘆洲區三民路78號1樓</address>
+        <description><![CDATA[地址: 新北市蘆洲區三民路78號1樓<br>連絡電話: 02-82828350<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: ]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>新北市蘆洲區三民路78號1樓</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-82828350</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>蘿蔔蹲 Farmer Tasty</name>
+        <address>新北市永和區安樂路136號</address>
+        <description><![CDATA[地址: 新北市永和區安樂路136號<br>連絡電話: 02-2942-7711<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: ]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>新北市永和區安樂路136號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-2942-7711</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>藍柚小廚</name>
+        <address>新北市永和區永亨路49號</address>
+        <description><![CDATA[地址: 新北市永和區永亨路49號<br>連絡電話: 02-29242789<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 藍柚小廚座落於永和區永亨路寧靜的巷弄中，店內營造出明亮、舒適、溫馨的感覺且混搭著各式風格， 餐廳內特聘擁有法國藍帶藝術學院亞太區榮譽勳章及美國五星亞太區白金美食大師勳章的行政主廚來為每一位貴賓料理每道佳餚。本店堅持使用讚地天然食材及有產銷履歷認證的安心肉品，同時我們是"有心溯源餐廳"。]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>新北市永和區永亨路49號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-29242789</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value><![CDATA[藍柚小廚座落於永和區永亨路寧靜的巷弄中，店內營造出明亮、舒適、溫馨的感覺且混搭著各式風格， 餐廳內特聘擁有法國藍帶藝術學院亞太區榮譽勳章及美國五星亞太區白金美食大師勳章的行政主廚來為每一位貴賓料理每道佳餚。本店堅持使用讚地天然食材及有產銷履歷認證的安心肉品，同時我們是"有心溯源餐廳"。]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>粩泰泰泰式料理</name>
+        <address>新北市板橋區四川路2段47巷4弄6號</address>
+        <description><![CDATA[地址: 新北市板橋區四川路2段47巷4弄6號<br>連絡電話: 02-8966-0308<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 一直以來部份料理皆有選用格外品入菜，店內一直以來都貼有惜食分享推廣的海報和報導，潛移默化影響消費者認識到格外品及惜食重要性，更會鼓勵客人沒有吃完的餐點可以打包，亦加入環保集點惜食餐廳之列，響應環保之行享餐點優惠活動。]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>新北市板橋區四川路2段47巷4弄6號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-8966-0308</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>一直以來部份料理皆有選用格外品入菜，店內一直以來都貼有惜食分享推廣的海報和報導，潛移默化影響消費者認識到格外品及惜食重要性，更會鼓勵客人沒有吃完的餐點可以打包，亦加入環保集點惜食餐廳之列，響應環保之行享餐點優惠活動。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[U Need Brunch & Bistro]]></name>
+        <address>新北市永和區信義路五巷4-1 號1樓</address>
+        <description><![CDATA[地址: 新北市永和區信義路五巷4-1 號1樓<br>連絡電話: 02-2925-057<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: ]]></description>
+        <styleUrl>#icon-1899-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>新北市永和區信義路五巷4-1 號1樓</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-2925-057</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>臺北市</name>
+      <Placemark>
+        <name>呷米蔬食/素食餐廳</name>
+        <address>臺北市中正區衡陽路9號</address>
+        <description><![CDATA[地址: 臺北市中正區衡陽路9號<br>連絡電話: 02-23319662<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 呷米創立宗旨即是以友善土地，使用小農食材...為主。開店迄今，幾乎是以全食物料理，並於店內舉辦經常性相關講座或與其他團體合作。期待更多的餐廳參與惜食計畫。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺北市中正區衡陽路9號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-23319662</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>呷米創立宗旨即是以友善土地，使用小農食材...為主。開店迄今，幾乎是以全食物料理，並於店內舉辦經常性相關講座或與其他團體合作。期待更多的餐廳參與惜食計畫。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>花炒堂餐廳</name>
+        <address>臺北市文山區興隆路一段15號J區</address>
+        <description><![CDATA[地址: 臺北市文山區興隆路一段15號J區<br>連絡電話: 02-29353527<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 在店內，會依照客人的人數，建議客人點餐的數量，若客人點太多，我們也會先建議客人菜量已足夠，若覺得不夠可以再加點。我們也會將剩餘的每日例湯，分送給附近較清貧的街友、回收阿姨。未來正研擬可以推出「你吃光光，我請客」的優惠活動，鼓勵大家點適當適量的餐點，只要今天餐盤吃光無剩菜，即可獲得50元折價，等等的一些優惠的方式，鼓勵大家惜食。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺北市文山區興隆路一段15號J區</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-29353527</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>在店內，會依照客人的人數，建議客人點餐的數量，若客人點太多，我們也會先建議客人菜量已足夠，若覺得不夠可以再加點。我們也會將剩餘的每日例湯，分送給附近較清貧的街友、回收阿姨。未來正研擬可以推出「你吃光光，我請客」的優惠活動，鼓勵大家點適當適量的餐點，只要今天餐盤吃光無剩菜，即可獲得50元折價，等等的一些優惠的方式，鼓勵大家惜食。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>大樹下健康餐飲</name>
+        <address>臺北市中正區三元街69號</address>
+        <description><![CDATA[地址: 臺北市中正區三元街69號<br>連絡電話: 02-2309-4364<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 延續老闆娘初衷朝落實全食物惜食不浪費、友善土地食材與真食物料理的理念，希望能為地球盡一份心力! 目前參與:環保集點、台灣Pay、文化亮票。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺北市中正區三元街69號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-2309-4364</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>延續老闆娘初衷朝落實全食物惜食不浪費、友善土地食材與真食物料理的理念，希望能為地球盡一份心力! 目前參與:環保集點、台灣Pay、文化亮票。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>曬太陽洋食小館</name>
+        <address>臺北市中山區中山北路二段96巷15號</address>
+        <description><![CDATA[地址: 臺北市中山區中山北路二段96巷15號<br>連絡電話: 02-25230350<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 曬太陽洋食小館運用台灣各地好食材：宜蘭田董米、南投豐鮮蛋、雲林羊膜香腸、台南陳稼莊冬瓜露、有機格外品…，除了設計選擇分量的菜單，也在店內販售格外品蔬果，讓消費者在曬太陽用餐，也可以「順便」買好食材回家料理。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺北市中山區中山北路二段96巷15號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-25230350</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>曬太陽洋食小館運用台灣各地好食材：宜蘭田董米、南投豐鮮蛋、雲林羊膜香腸、台南陳稼莊冬瓜露、有機格外品…，除了設計選擇分量的菜單，也在店內販售格外品蔬果，讓消費者在曬太陽用餐，也可以「順便」買好食材回家料理。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>CBD café</name>
+        <address>臺北市中山區長安東路二段36巷11號1樓</address>
+        <description><![CDATA[地址: 臺北市中山區長安東路二段36巷11號1樓<br>連絡電話: 02-2581-9101<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外6.愛地球8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 於傳統市場自主購買格外品，每樣食材皆盡力發揮其功效，以最少的浪費創造最多的美味。餐點中的食材若有不喜歡的都可以與我們討論做更換，吃不完也歡迎打包外帶。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺北市中山區長安東路二段36巷11號1樓</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-2581-9101</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外6.愛地球8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>於傳統市場自主購買格外品，每樣食材皆盡力發揮其功效，以最少的浪費創造最多的美味。餐點中的食材若有不喜歡的都可以與我們討論做更換，吃不完也歡迎打包外帶。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>西糯米廚房</name>
+        <address>臺北市士林區文林路740巷24號1樓</address>
+        <description><![CDATA[地址: 臺北市士林區文林路740巷24號1樓<br>連絡電話: 02-2838-6505<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 選購食材時不挑外觀，並盡可能全食物利用。把握先進先出，確實掌控需求量，不足再採購。餐點份量以多數人吃得完為標準，不足可再加飯或加點菜；若有不吃的食材可客製化或更換其他菜色，以減少食物浪費。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺北市士林區文林路740巷24號1樓</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-2838-6505</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>選購食材時不挑外觀，並盡可能全食物利用。把握先進先出，確實掌控需求量，不足再採購。餐點份量以多數人吃得完為標準，不足可再加飯或加點菜；若有不吃的食材可客製化或更換其他菜色，以減少食物浪費。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>上善豆家</name>
+        <address>臺北市大安區復興南路一段107巷16號</address>
+        <description><![CDATA[地址: 臺北市大安區復興南路一段107巷16號<br>連絡電話: 02-27316991<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 上善豆家是一間每日新鮮手作豆腐豆漿豆花的製豆家，製作豆製品時，會有黃豆的豆渣，我們將此豆渣研發豆渣麥片、豆渣餅乾，把黃豆食材用的淋漓盡致並呈現道道獨特的豆製料理。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺北市大安區復興南路一段107巷16號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-27316991</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>上善豆家是一間每日新鮮手作豆腐豆漿豆花的製豆家，製作豆製品時，會有黃豆的豆渣，我們將此豆渣研發豆渣麥片、豆渣餅乾，把黃豆食材用的淋漓盡致並呈現道道獨特的豆製料理。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>The GreenROOM</name>
+        <address>臺北市大安區仁愛路四段300巷25弄3號</address>
+        <description><![CDATA[地址: 臺北市大安區仁愛路四段300巷25弄3號<br>連絡電話: 02-27039026<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 父親與我攜手打造這間特色餐廳，這故事要從我的家人在國共內戰時，逃難到金三角緬甸說起。父親在飽受飢餓的小鄉村長大，奶奶獨自扶養十個小孩。身為長子的爸爸，扛起這個家的重擔，從小與奶奶一塊照料全家起居，並跟奶奶學了一手好廚藝，以家鄉的雲南料理融入泰北佳餚，創造出全新的風味。<br>爸爸在金三角的這段序曲，是開啟The GreenROOM的金鑰，我們堅持使用當地蔬果，嚴選非基因改造的食材，並使用能攝取高纖維的原型食物入菜，如奶奶教我的一樣，用最純粹的料理才能撫慰人心，品嘗它最原始的風味。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺北市大安區仁愛路四段300巷25弄3號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-27039026</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>父親與我攜手打造這間特色餐廳，這故事要從我的家人在國共內戰時，逃難到金三角緬甸說起。父親在飽受飢餓的小鄉村長大，奶奶獨自扶養十個小孩。身為長子的爸爸，扛起這個家的重擔，從小與奶奶一塊照料全家起居，並跟奶奶學了一手好廚藝，以家鄉的雲南料理融入泰北佳餚，創造出全新的風味。
+爸爸在金三角的這段序曲，是開啟The GreenROOM的金鑰，我們堅持使用當地蔬果，嚴選非基因改造的食材，並使用能攝取高纖維的原型食物入菜，如奶奶教我的一樣，用最純粹的料理才能撫慰人心，品嘗它最原始的風味。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>綠帶純植物烘焙</name>
+        <address>臺北市松山區延壽街171號</address>
+        <description><![CDATA[地址: 臺北市松山區延壽街171號<br>連絡電話: 02-27477668<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 響應目前許多關於環境保護、身體健康、人道精神的綜合因素，開始籌備無蛋奶的純植物糕點，期待更多人開始了解傳統西點之外的另一種美好滋味。秉持者對待家人的精神，不使用動物性食材、氫化植物鮮奶油、香精、色素以及含鋁泡打粉，盡量採用有機在地食材，如此用心的純植物旦糕，不僅對健康有益 ，也對動物及環境友善，對奶蛋過敏的小朋友也非常適合。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺北市松山區延壽街171號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-27477668</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>響應目前許多關於環境保護、身體健康、人道精神的綜合因素，開始籌備無蛋奶的純植物糕點，期待更多人開始了解傳統西點之外的另一種美好滋味。秉持者對待家人的精神，不使用動物性食材、氫化植物鮮奶油、香精、色素以及含鋁泡打粉，盡量採用有機在地食材，如此用心的純植物旦糕，不僅對健康有益 ，也對動物及環境友善，對奶蛋過敏的小朋友也非常適合。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>MissGreen</name>
+        <address>臺北市大安區敦化南路二段63巷28號</address>
+        <description><![CDATA[地址: 臺北市大安區敦化南路二段63巷28號<br>連絡電話: 02-27039026<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: MissGreen是一間座落大安區的美式蔬食餐廳，講求綠色環保、動物權，以及慢活的生活步調，讓你在進門的那一刻，就能把所有煩惱拋到腦後，迎向你的是滿滿的植物牆，仿若在大自然中舒服的用餐，和給寵物的友善空間，更厲害的是這些琳瑯滿目的菜單，讓妳壓根猜不透這些菜色要怎麼變成素的! 料理上我們絕對是很講究的，不僅採用台灣當地小農產品，還堅持不用人工素料，讓料理加健康美味、變化多端，每一口都會驚豔妳的味蕾， 並從心發掘綠色新能量 ! 妳將發現... MissGreen就藏在妳心中!]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺北市大安區敦化南路二段63巷28號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-27039026</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>MissGreen是一間座落大安區的美式蔬食餐廳，講求綠色環保、動物權，以及慢活的生活步調，讓你在進門的那一刻，就能把所有煩惱拋到腦後，迎向你的是滿滿的植物牆，仿若在大自然中舒服的用餐，和給寵物的友善空間，更厲害的是這些琳瑯滿目的菜單，讓妳壓根猜不透這些菜色要怎麼變成素的! 料理上我們絕對是很講究的，不僅採用台灣當地小農產品，還堅持不用人工素料，讓料理加健康美味、變化多端，每一口都會驚豔妳的味蕾， 並從心發掘綠色新能量 ! 妳將發現... MissGreen就藏在妳心中!</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>食在地 台灣素</name>
+        <address>臺北市中山區錦州街183號</address>
+        <description><![CDATA[地址: 臺北市中山區錦州街183號<br>連絡電話: 02-25410799<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材10.愛推廣<br>惜食理念/餐廳介紹: 台灣有一群傻子，他們娶了同一個老婆，名叫：有機。細心呵護，努力補養，怕她受凍，擔心蟲咬，日日耕辛，夜不敢眠。<br>孩子長大了！女孩甜美富涵養，男孩健康又陽光，只有那個叫『格外』的女孩，臉上小小的缺陷，我們將她妝容的美麗如仙。腿裡有一點點的不同，卻是心地善良、彩色豐富，她是我們的鎮店寶，在每一道你享用的佳肴裡。請來這裡疼惜傻子，珍愛格外，享受有機，呵護土地。<br>實在 在地 台灣素]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺北市中山區錦州街183號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-25410799</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>台灣有一群傻子，他們娶了同一個老婆，名叫：有機。細心呵護，努力補養，怕她受凍，擔心蟲咬，日日耕辛，夜不敢眠。
+孩子長大了！女孩甜美富涵養，男孩健康又陽光，只有那個叫『格外』的女孩，臉上小小的缺陷，我們將她妝容的美麗如仙。腿裡有一點點的不同，卻是心地善良、彩色豐富，她是我們的鎮店寶，在每一道你享用的佳肴裡。請來這裡疼惜傻子，珍愛格外，享受有機，呵護土地。
+實在 在地 台灣素</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>活悅素食</name>
+        <address>臺北市士林區中山北路五段505巷34號</address>
+        <description><![CDATA[地址: 臺北市士林區中山北路五段505巷34號<br>連絡電話: 02-8861-3737<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 優先使用陽明山、士林區的農產品製作餐點，也願意使用格外品蔬果。另外，剩餘的食材會跟員工或附近有需要食物的民眾分享。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺北市士林區中山北路五段505巷34號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-8861-3737</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>優先使用陽明山、士林區的農產品製作餐點，也願意使用格外品蔬果。另外，剩餘的食材會跟員工或附近有需要食物的民眾分享。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>芽米屋美味蔬食館</name>
+        <address>臺北市北投區中央南路一段218號</address>
+        <description><![CDATA[地址: 臺北市北投區中央南路一段218號<br>連絡電話: 02-28947570<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 我們喜愛動物，我們熱愛生命，我們尊重每一個誕生。就從簡單的食物開始吧！我們期待更美好的生活，更和平的世界，因此我們練習對地球友善！<br>vegan 是一種不傷害任何動物的生活方式，不將動物用作食物，不使用含有動物成分的產品，或以動物做實驗的產品，進而營造更好的生活環境，及地球的永續發展。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺北市北投區中央南路一段218號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-28947570</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>我們喜愛動物，我們熱愛生命，我們尊重每一個誕生。就從簡單的食物開始吧！我們期待更美好的生活，更和平的世界，因此我們練習對地球友善！
+vegan 是一種不傷害任何動物的生活方式，不將動物用作食物，不使用含有動物成分的產品，或以動物做實驗的產品，進而營造更好的生活環境，及地球的永續發展。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>靈感咖啡</name>
+        <address>臺北市大安區新生南路三段84-6號3樓</address>
+        <description><![CDATA[地址: 臺北市大安區新生南路三段84-6號3樓<br>連絡電話: 02-23631371<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 一間有靈感的咖啡館，給予想要探尋都市謐靜的朋友不只是一抹綠意。在這裡，讓流動在琥珀色醇香液體，帶給你靈感的香氣；也可以，讓圍繞在齒間喉韻茶香，成為創意的味道。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺北市大安區新生南路三段84-6號3樓</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-23631371</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>一間有靈感的咖啡館，給予想要探尋都市謐靜的朋友不只是一抹綠意。在這裡，讓流動在琥珀色醇香液體，帶給你靈感的香氣；也可以，讓圍繞在齒間喉韻茶香，成為創意的味道。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Herban Kitchen & Bar二本餐廳]]></name>
+        <address>臺北市大安區忠孝東路四段101巷27號</address>
+        <description><![CDATA[地址: 臺北市大安區忠孝東路四段101巷27號<br>連絡電話: 02-87737033<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 二本的名字取自於二個英文字的新字結合，Herb+Urban=Herban, 意指為草綠都市。 我們熱愛美食, 美食並不代表一定需要有肉入菜。少吃肉對健康好, 對地球好, 更是能善待我們純真的動物們。 <br>二本的信念是, 我們尊重每一種飲食型態。但我們的理想是提供沒吃到肉也不會遺憾的佳餚來慢慢翻轉世間轉既有的食肉習慣, 讓完全肉食的人沒有壓力的接受無肉的飲食。 希望有一天、人們會變成以菜為主、以肉為輔。  <br>同時我們盡量採用本土食材, 有機蛋, 食草奶油, 非基因改造大豆, 大量新鮮香草,安全的好油, 不含凝乳酶的乳酪和無動物明膠葡萄酒。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺北市大安區忠孝東路四段101巷27號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-87737033</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>二本的名字取自於二個英文字的新字結合，Herb+Urban=Herban, 意指為草綠都市。 我們熱愛美食, 美食並不代表一定需要有肉入菜。少吃肉對健康好, 對地球好, 更是能善待我們純真的動物們。
+二本的信念是, 我們尊重每一種飲食型態。但我們的理想是提供沒吃到肉也不會遺憾的佳餚來慢慢翻轉世間轉既有的食肉習慣, 讓完全肉食的人沒有壓力的接受無肉的飲食。 希望有一天、人們會變成以菜為主、以肉為輔。
+同時我們盡量採用本土食材, 有機蛋, 食草奶油, 非基因改造大豆, 大量新鮮香草,安全的好油, 不含凝乳酶的乳酪和無動物明膠葡萄酒。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Dela1010 kaffee</name>
+        <address>臺北市松山區南京東路五段250巷2弄39號</address>
+        <description><![CDATA[地址: 臺北市松山區南京東路五段250巷2弄39號<br>連絡電話: 02-27480069<br>自評惜食項目: 1.主動說2.可以選3.可打包5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: Dela1010 Kaffee 正式成為蔬食「素人」全面提供純素、蛋素、奶素飲品與餐點，繼續分享健康食材、愛護地球、尊重生命價值。<br>每個人用自己的方式愛動物; 和許多人一樣，我們從領養開始。<br>第一階段，六年年前領養了了認為自己是人的貓咪憨憨店長。<br>第二階段，向市政府申請成為動物友善咖啡館<br>第三階段，也就是現在 正式轉型出道成為蔬食素人咖啡館。<br>無意識的動物傷害變少了了，有意識的愛與尊重變多了了。更貼近Dela1010 Kaffee的初衷。Dela瑞典文，意為「分享」。 分享的不只咖啡，更更是純粹愉悅的健康飲食與氛圍。在此與大家分享這件最重要的小事。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺北市松山區南京東路五段250巷2弄39號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-27480069</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>Dela1010 Kaffee 正式成為蔬食「素人」全面提供純素、蛋素、奶素飲品與餐點，繼續分享健康食材、愛護地球、尊重生命價值。
+每個人用自己的方式愛動物; 和許多人一樣，我們從領養開始。
+第一階段，六年年前領養了了認為自己是人的貓咪憨憨店長。
+第二階段，向市政府申請成為動物友善咖啡館
+第三階段，也就是現在 正式轉型出道成為蔬食素人咖啡館。
+無意識的動物傷害變少了了，有意識的愛與尊重變多了了。更貼近Dela1010 Kaffee的初衷。Dela瑞典文，意為「分享」。 分享的不只咖啡，更更是純粹愉悅的健康飲食與氛圍。在此與大家分享這件最重要的小事。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Cura Pizza</name>
+        <address>臺北市萬華區東園街68-9號</address>
+        <description><![CDATA[地址: 臺北市萬華區東園街68-9號<br>連絡電話: 02-23395877<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: CURA PIZZA 位於台北萬華的東園街，此地舊名「加蚋仔」，有別於大家熟悉的「艋岬」地區，這裡早期以出產茉莉花與麻竹筍曾繁華一時，創辦人經歷了自己家鄉由繁盛逐漸沒落的過往，決心回到當地為這個舊社區注入活水，而「CURA」為義大利文「關懷」之意，代表著創辦人對於自己家鄉的關懷。識別圖像將CURA四個字母與「東方漏窗」的意象做結合，體現出異國文化同時也融入在地風情。創辦人曾遠赴義大利與日本研習進修，並引進義大利進口百年品牌石窯，以龍眼木柴燒，將南義大利拿坡里式的道地美味完美重現]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺北市萬華區東園街68-9號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-23395877</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>CURA PIZZA 位於台北萬華的東園街，此地舊名「加蚋仔」，有別於大家熟悉的「艋岬」地區，這裡早期以出產茉莉花與麻竹筍曾繁華一時，創辦人經歷了自己家鄉由繁盛逐漸沒落的過往，決心回到當地為這個舊社區注入活水，而「CURA」為義大利文「關懷」之意，代表著創辦人對於自己家鄉的關懷。識別圖像將CURA四個字母與「東方漏窗」的意象做結合，體現出異國文化同時也融入在地風情。創辦人曾遠赴義大利與日本研習進修，並引進義大利進口百年品牌石窯，以龍眼木柴燒，將南義大利拿坡里式的道地美味完美重現</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>禪風茶樓</name>
+        <address>臺北市中山區松江路182號2樓</address>
+        <description><![CDATA[地址: 臺北市中山區松江路182號2樓<br>連絡電話: 02-25678977<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺北市中山區松江路182號2樓</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-25678977</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>動物誌</name>
+        <address>臺北市文山區景隆街1巷9號</address>
+        <description><![CDATA[地址: 臺北市文山區景隆街1巷9號<br>連絡電話: 02-2935-3633<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 增加採購頻率，客人可提出減少飯的份量，剩餘食材會作員工餐、吐司邊烘乾後會用作餐點食材以減少浪費。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺北市文山區景隆街1巷9號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-2935-3633</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>增加採購頻率，客人可提出減少飯的份量，剩餘食材會作員工餐、吐司邊烘乾後會用作餐點食材以減少浪費。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>隨緣居素食餐廳</name>
+        <address>臺北市松山區南京東路四段11號2樓</address>
+        <description><![CDATA[地址: 臺北市松山區南京東路四段11號2樓<br>連絡電話: 02-27160018<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 目前地球正在逐漸暖化，提倡素食理念不僅能夠為地球盡一份心力，對體內的環保也有極大的幫助，在現今注重養生的社會，素食儼然成為未來餐飲的趨勢。<br>隨緣居素食餐廳目標在於顛覆傳統素食觀念，讓顧可能漸漸感受，取代葷食，當在用餐時不覺得是在吃素，以精緻、養生、環保、創新的理念成長，除素食專業領航者方向邁進。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺北市松山區南京東路四段11號2樓</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-27160018</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>目前地球正在逐漸暖化，提倡素食理念不僅能夠為地球盡一份心力，對體內的環保也有極大的幫助，在現今注重養生的社會，素食儼然成為未來餐飲的趨勢。
+隨緣居素食餐廳目標在於顛覆傳統素食觀念，讓顧可能漸漸感受，取代葷食，當在用餐時不覺得是在吃素，以精緻、養生、環保、創新的理念成長，除素食專業領航者方向邁進。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>牧牧沙拉</name>
+        <address>臺北市松山區敦化北路222巷70號</address>
+        <description><![CDATA[地址: 臺北市松山區敦化北路222巷70號<br>連絡電話: 02-2547-2225<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 絕大多數使用在地小農食材並願意使用格外品製作餐點。主廚會運用創意開發新素材，如格外品製作成美味的醜蔬菜湯、或使用南瓜子磨成粉當作調味料，若有剩餘新鮮食材除供作員工餐外也會分送予客人。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺北市松山區敦化北路222巷70號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-2547-2225</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>絕大多數使用在地小農食材並願意使用格外品製作餐點。主廚會運用創意開發新素材，如格外品製作成美味的醜蔬菜湯、或使用南瓜子磨成粉當作調味料，若有剩餘新鮮食材除供作員工餐外也會分送予客人。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Oohchacha自然食(古亭店)</name>
+        <address>臺北市中正區南昌路二段207號</address>
+        <description><![CDATA[地址: 臺北市中正區南昌路二段207號<br>連絡電話: 02-23677133<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: Ooh Cha Cha是由四位志同道合的朋友組成的。希望找到最適合台灣、且在地最可行的健康飲食形態，推廣以植物為主的「全食」飲食概念。秉著對食物、土地、與健康的熱愛，一間與眾不同的全食概念店--- 「Ooh Cha Cha自然食」應運而生。希望讓大家感受到，健康營養的食物也能是令人食指大動的美味，無負擔的為自己的健康加分。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺北市中正區南昌路二段207號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>02-23677133</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>Ooh Cha Cha是由四位志同道合的朋友組成的。希望找到最適合台灣、且在地最可行的健康飲食形態，推廣以植物為主的「全食」飲食概念。秉著對食物、土地、與健康的熱愛，一間與眾不同的全食概念店--- 「Ooh Cha Cha自然食」應運而生。希望讓大家感受到，健康營養的食物也能是令人食指大動的美味，無負擔的為自己的健康加分。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>新竹縣</name>
+      <Placemark>
+        <name>喫菜吧 Vegetables Bar</name>
+        <address>新竹縣竹北市嘉豐二街一段32號</address>
+        <description><![CDATA[地址: 新竹縣竹北市嘉豐二街一段32號<br>連絡電話: 03-6577885<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 喫菜吧希望使用台灣在地友善食材來製作餐點，並盡畫避免食材浪費。此外，我們亦希望推廣食農教育體驗，及落實廚餘分類、回收。]]></description>
+        <styleUrl>#icon-1899-9C27B0</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>新竹縣竹北市嘉豐二街一段32號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>03-6577885</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>喫菜吧希望使用台灣在地友善食材來製作餐點，並盡畫避免食材浪費。此外，我們亦希望推廣食農教育體驗，及落實廚餘分類、回收。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>臺中市</name>
+      <Placemark>
+        <name>垚湌廳</name>
+        <address>臺中市南屯區大觀路41號</address>
+        <description><![CDATA[地址: 臺中市南屯區大觀路41號<br>連絡電話: 04-2382-9955<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 尊重土壤及農業培育過程，惜食要對食物有感恩的心，追求零耗損，耗損食材可以賦予新的面貌，比如蔬果皮或肉屑耗損食材，創造新樣貌讓其有利用價值，食材不分優劣，惜食應由廚師的想法去創造新價值，讓客戶了解惜食的重要性。]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>臺中市南屯區大觀路41號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>04-2382-9955</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>尊重土壤及農業培育過程，惜食要對食物有感恩的心，追求零耗損，耗損食材可以賦予新的面貌，比如蔬果皮或肉屑耗損食材，創造新樣貌讓其有利用價值，食材不分優劣，惜食應由廚師的想法去創造新價值，讓客戶了解惜食的重要性。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>雲林縣</name>
+      <Placemark>
+        <name>海盜餐廳</name>
+        <address>雲林縣古坑鄉永光村大湖口67號</address>
+        <description><![CDATA[地址: 雲林縣古坑鄉永光村大湖口67號<br>連絡電話: 05-5825789/5848<br>自評惜食項目: 1.主動說2.可以選3.可打包6.愛地球7.吃在地8.惜食材10.愛推廣<br>惜食理念/餐廳介紹: 推動環保署惜食店鋪活動：餐點未食用完，提供打包服務，不希望讓食物變廚餘<br>，推廣食材零浪費，廚餘分類及回收。讓有感的遊客，了解及支持惜食的重要性！]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>雲林縣古坑鄉永光村大湖口67號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>05-5825789/5848</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包6.愛地球7.吃在地8.惜食材10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>推動環保署惜食店鋪活動：餐點未食用完，提供打包服務，不希望讓食物變廚餘
+，推廣食材零浪費，廚餘分類及回收。讓有感的遊客，了解及支持惜食的重要性！</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>劍湖山-咕咕餐廳</name>
+        <address>雲林縣古坑鄉永光村大湖口67號</address>
+        <description><![CDATA[地址: 雲林縣古坑鄉永光村大湖口67號<br>連絡電話: 05-5825789/5848<br>自評惜食項目: 1.主動說2.可以選3.可打包6.愛地球7.吃在地8.惜食材10.愛推廣<br>惜食理念/餐廳介紹: 推動環保署惜食店鋪活動：餐點未食用完，提供打包服務，不希望讓食物變廚餘<br>，推廣食材零浪費，廚餘分類及回收。讓有感的遊客，了解及支持惜食的重要性！]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>雲林縣古坑鄉永光村大湖口67號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>05-5825789/5848</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包6.愛地球7.吃在地8.惜食材10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>推動環保署惜食店鋪活動：餐點未食用完，提供打包服務，不希望讓食物變廚餘
+，推廣食材零浪費，廚餘分類及回收。讓有感的遊客，了解及支持惜食的重要性！</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>KU食代美食百匯</name>
+        <address>雲林縣古坑鄉永光村大湖口67號</address>
+        <description><![CDATA[地址: 雲林縣古坑鄉永光村大湖口67號<br>連絡電話: 05-5825817<br>自評惜食項目: 1.主動說2.可以選3.可打包4吃格食6.愛地球7.吃在地8.惜食材10.愛推廣<br>惜食理念/餐廳介紹: 1.透過調整食物的份量和採取減少廚餘措施，與顧客共同從源頭減少廚餘。<br>2.控制庫存量減少因食材過期而報廢。]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>雲林縣古坑鄉永光村大湖口67號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>05-5825817</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4吃格食6.愛地球7.吃在地8.惜食材10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>1.透過調整食物的份量和採取減少廚餘措施，與顧客共同從源頭減少廚餘。
+2.控制庫存量減少因食材過期而報廢。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>和風廚房</name>
+        <address>雲林縣古坑鄉永光村大湖口67號</address>
+        <description><![CDATA[地址: 雲林縣古坑鄉永光村大湖口67號<br>連絡電話: 05-5825817<br>自評惜食項目: 1.主動說2.可以選3.可打包4吃格食6.愛地球7.吃在地8.惜食材10.愛推廣<br>惜食理念/餐廳介紹: 1.透過調整食物的份量和採取減少廚餘措施，與顧客共同從源頭減少廚餘。<br>2.控制庫存量減少因食材過期而報廢。]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>雲林縣古坑鄉永光村大湖口67號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>05-5825817</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4吃格食6.愛地球7.吃在地8.惜食材10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>1.透過調整食物的份量和採取減少廚餘措施，與顧客共同從源頭減少廚餘。
+2.控制庫存量減少因食材過期而報廢。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>高雄市</name>
+      <Placemark>
+        <name>健康美地</name>
+        <address>高雄市鳳山區五權南路210號</address>
+        <description><![CDATA[地址: 高雄市鳳山區五權南路210號<br>連絡電話: 07-745-1922<br>自評惜食項目: 1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣<br>惜食理念/餐廳介紹: 健康美地強調食材產地來源，配合許多高雄小農產地直送，避免掉因節省運費囤貨及運送中間食材的損耗浪費，因應加入高雄友善綠色餐廳及國際無添加協會，食材皆小量製備並分裝，客人現點現製備，將食材浪費減到最低。]]></description>
+        <styleUrl>#icon-1899-424242</styleUrl>
+        <ExtendedData>
+          <Data name="地址">
+            <value>高雄市鳳山區五權南路210號</value>
+          </Data>
+          <Data name="連絡電話">
+            <value>07-745-1922</value>
+          </Data>
+          <Data name="自評惜食項目">
+            <value>1.主動說2.可以選3.可打包4.吃格外5.吃全食6.愛地球7.吃在地8.惜食材9.愛分享10.愛推廣</value>
+          </Data>
+          <Data name="惜食理念/餐廳介紹">
+            <value>健康美地強調食材產地來源，配合許多高雄小農產地直送，避免掉因節省運費囤貨及運送中間食材的損耗浪費，因應加入高雄友善綠色餐廳及國際無添加協會，食材皆小量製備並分裝，客人現點現製備，將食材浪費減到最低。</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
