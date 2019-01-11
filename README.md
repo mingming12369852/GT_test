@@ -25,7 +25,7 @@ Install to HTML
   <script src="http://127.0.0.1/openPointData.js"></script>
 ```
 Map 預覽請使用 OSM Leaflet
-(ID="map")
+請ID 命名為"map"
 
 
 ```javascript
