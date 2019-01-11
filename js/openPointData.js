@@ -60,5 +60,6 @@
   }
 
   function Clear(){
+    Last_name= null;
     myGroup.clearLayers();
   }
