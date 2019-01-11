@@ -2,7 +2,7 @@
 
 目前 firebase 上有的資料。<br>
 
-<h1>Name<h1>
+<h1>Name</h1>
 [x] City_repair_station<br>
 [x] Free_store<br>
 [x] Not_plastic<br>
@@ -21,15 +21,16 @@ Install to HTML
 ```html
   <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-app.js"></script>
   <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-database.js"></script>
-  <script src="js/openPointData"></script>
+  <script src="http://127.0.0.1/openPointData.js"></script>
 ```
 Map 預覽請使用 OSM
 命名為"map"
 
 
 ```javascript
-getData(name);
-//輸入資料庫中對應Name
-Clear();
-//初始化 所有的點
+1.getData(name);//輸入資料庫中對應Name,會為你自動標示在leaflet地圖中
+2.Clear();//初始化 所有的點
 ```
+
+未完成功能
+[ ] 顯示地址與名稱<br>
