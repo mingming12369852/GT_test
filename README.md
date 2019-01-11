@@ -1,6 +1,8 @@
 #GT_test
 
 <h1>開源_零汙染 地標顯示Demo</h1>
+<tr>
+  
 目前 firebase 上有的資料。<br>
 
 <h4>Database Name</h4>
@@ -18,6 +20,7 @@
 [ ] Plastic_map<br>
 [ ] Zero_abandoned_life<br>
 
+<tr>
 Install to HTML
 ```html
   <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-app.js"></script>
@@ -27,11 +30,20 @@ Install to HTML
 Map 預覽請使用 OSM Leaflet
 請ID 命名為"map"
 
+<tr>
+使用方法
 
 ```javascript
 1.getData(name);//輸入資料庫中對應Name,會為你自動標示在Leaflet地圖中
 2.Clear();//初始化 所有的點
+
+範例:
+  <button type="button" onclick="getData('City_repair_station')" name="button">修理</button>
+  <button type="button" onclick="getData('Free_store')" name="button">書店</button>
+  <button type="button" onclick="Clear()" name="button">初始化</button>
 ```
 
+<tr>
 未完成功能<br>
-[ ] 顯示地址與名稱<br>
+[X] 顯示地址與名稱<br>
+
