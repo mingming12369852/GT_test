@@ -16,8 +16,6 @@
     };
     firebase.initializeApp(config);
 
-
-
   function getData(Name){
     //檢查是否與上一次相同 的 讀取資料
     Check();
@@ -25,26 +23,14 @@
     //新增點位
     function newPoint () {
 
-
-
         for (var i = 0; i < car.length; i++) {
-        var marker = L.marker([car[i].geometry.coordinates[1], car[i].geometry.coordinates[0]]);
+        var marker = L.marker([car[i].geometry.coordinates[1], car[i].geometry.coordinates[0]]).bindPopup(car[i].properties.description);
         layers.push(marker);
         }
         myGroup=L.layerGroup(layers);
-
-
-
         if (Demo_myGroip != myGroup) {
-        // myGroup.clearLayers();
         map.addLayer(myGroup);
-        console.log(Demo_myGroip+"舊");
-        // Demo_myGroip = myGroup;
-        console.log(Demo_myGroip);
-        console.log(myGroup);
       }
-
-
     }
     //get Database 路徑
     function DataConnection(){
@@ -52,10 +38,12 @@
       var Shorten_name = Name+"/features/";
       firebase.database().ref(Shorten_name).on('value', function(data) {
          car = data.val();
+         console.log(car[1].properties.description);
          if (car != null) {
           newPoint();
          }
       });
+
     }
     //檢查
     function Check() {
