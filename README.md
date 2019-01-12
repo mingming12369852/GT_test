@@ -45,3 +45,6 @@ Clear();//初始化 所有的點
 ```
 
 
+DEMO<br>
+https://mingming12369852.github.io/GT_test.github.io/
+
