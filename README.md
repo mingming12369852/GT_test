@@ -25,7 +25,7 @@
 
     <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-app.js"></script>
     <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-database.js"></script>
-    <script src="http://127.0.0.1/openPointData.js"></script>
+    <script src="js/openPointData.js"></script>
 </h4>注意!</h4><br>
 
 Map 預覽請使用 OSM Leaflet，並請ID 命名為"map"<br>
