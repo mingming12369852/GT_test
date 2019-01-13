@@ -48,3 +48,5 @@ Clear();//初始化 所有的點
 DEMO<br>
 https://mingming12369852.github.io/GT_test.github.io/
 
+[配色](https://lh4.googleusercontent.com/lpFisKIsiABK1mwfj3UfmEfdypYfnBEGbCYlsJc3Gy6GOjQqIpN8JiToI2uqizrm2c57UmtUviyWzm-eR9Tlrc1nsHlMZa4njO9XcyXx)
+
