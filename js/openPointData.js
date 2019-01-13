@@ -38,7 +38,6 @@
       var Shorten_name = Name+"/features/";
       firebase.database().ref(Shorten_name).on('value', function(data) {
          car = data.val();
-         console.log(car[1].properties);
          if (car != null) {
           newPoint();
          }
