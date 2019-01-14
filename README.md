@@ -41,7 +41,7 @@ Clear();//初始化 所有的點
 範例:
   <button type="button" onclick="getData('City_repair_station')" name="button">修理</button>
   <button type="button" onclick="getData('Free_store')" name="button">書店</button>
-  <button type="button" onclick="Clear()" name="button">初始化</button>
+  <button type="button" onclick="Clear('0')" name="button">隱藏</button>
 ```
 
 
