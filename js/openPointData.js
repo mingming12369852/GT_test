@@ -70,6 +70,7 @@ function getData(Name) {
 function Clear(number) {
   map.removeLayer(myGroup[number]);
 }
+
 //顯示
 function Display(number) {
   map.addLayer(myGroup[number]);
