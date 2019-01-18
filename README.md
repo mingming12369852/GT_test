@@ -2,7 +2,7 @@
 
 <h1>開源_零汙染 地標顯示Demo</h1>
 <tr>
-  
+
 目前 firebase 上有的資料。<br>
 
 <h4>Database Name</h4>
@@ -34,14 +34,25 @@ Map 預覽請使用 OSM Leaflet，並請ID 命名為"map"<br>
 使用方法
 
 ```
+
+Hello;測試使否安裝成功
+
 getData(name);//輸入資料庫中對應Name,會為你自動標示在Leaflet地圖中
 
-Clear();//初始化 所有的點
+抓取的第一筆資料會是Array[0];
+下方number = 0;
+抓取的第二筆資料會是Array[1];
+下方number = 1;
+...以此類推
+
+
+Clear(number);//隱藏
+
+Display(number);顯示
 
 範例:
-  <button type="button" onclick="getData('City_repair_station')" name="button">修理</button>
-  <button type="button" onclick="getData('Free_store')" name="button">書店</button>
-  <button type="button" onclick="Clear('0')" name="button">隱藏</button>
+Map_tool.Hello();
+>>>"this me"
 ```
 
 
