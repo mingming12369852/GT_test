@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="zh-TW" dir="ltr">
 
 <head>
   <meta charset="utf-8">
@@ -9,20 +9,12 @@
   <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js" integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==" crossorigin=""></script>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"></script>
-  <!-- //leafletjs -->
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <link rel=stylesheet type="css/button.css" href="main.css">
+
   <!-- // UI -->
   <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-app.js"></script>
   <script src="https://www.gstatic.com/firebasejs/5.7.0/firebase-database.js"></script>
   <script src="js/openPointData.js"></script>
-
-
-
-
 
   <style type="text/css">
     @import "css/button.css";
@@ -58,14 +50,11 @@
 </head>
 
 <body>
-
+  <!-- 頭部菜單 -->
   <div class="container">
 
     <div class="row ">
-
-
       <div class="col ">
-
         <img id="logo" src="img/logo.jpg" height="at" class="float-left mw-100" alt="">
         <br><br>
         <ul id="top-ul" class="nav justify-content-end ">
@@ -88,8 +77,6 @@
           </li>
         </ul>
       </div>
-
-
     </div>
 
 
@@ -97,7 +84,7 @@
   </div>
 
 
-
+  <!-- 左側選單 -->
   <div class="container border">
 
     <div class="row">
@@ -150,7 +137,7 @@
         <script type="text/javascript">
           // 建立 Leaflet 地圖
           var map = L.map('mapid');
-
+          //初始化點位
           map.setView(new L.LatLng(25.0375198, 121.5636796), 12);
 
           // 設定圖資來源
@@ -167,13 +154,21 @@
     </div>
   </div>
 
+
   第一次使用，請先手動get資料，從左至右. thx<br>
-  <button type="button" onclick="getData('City_repair_station')" name="button">修理</button>
-  <button type="button" onclick="getData('Free_store')" name="button">書店</button><br>
-  <button type="button" onclick="Clear('0')" name="button">隱藏修理</button>
-  <button type="button" onclick="Clear('1')" name="button">隱藏書店</button><br>
-  <button type="button" onclick="Display(0)" name="button">顯示修理</button>
-  <button type="button" onclick="Display(1)" name="button">顯示書店</button>
+
+  <button id="bt01" type="button" name="button">修理</button>
+  <button id="bt02" type=" button" name="button">書店</button><br>
+  <button id="hide01" type="button" name="button">隱藏修理</button>
+  <button id="hide02" type="button" name="button">隱藏書店</button><br>
+  <button id="display01" type="button" name="button">顯示修理</button>
+  <button id="display02" type="button" name="button">顯示書店</button>
+
+  <!-- //leafletjs -->
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <link rel=stylesheet type="css/button.css" href="main.css">
 </body>
 
 </html>
