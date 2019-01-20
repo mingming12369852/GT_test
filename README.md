@@ -36,7 +36,7 @@ Map 預覽請使用 OSM Leaflet，並請ID 命名為"map"<br>
 
 ```
 
-Hello;測試使否安裝成功
+Hello();測試使否安裝成功
 
 getData(name);//輸入資料庫中對應Name,會為你自動標示在Leaflet地圖中
 
