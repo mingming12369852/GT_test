@@ -51,6 +51,8 @@ Clear(number);//隱藏
 
 Display(number);顯示
 
+
+套件名稱：Map_tool
 範例:
 Map_tool.Hello();
 >>>"this me"
