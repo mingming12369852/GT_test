@@ -29,7 +29,8 @@
 </h4>注意!</h4><br>
 
 Map 預覽請使用 OSM Leaflet，並請ID 命名為"map"<br>
-
+不知道如何安裝?
+:https://leafletjs.com/
 <tr>
 使用方法
 
