@@ -29,13 +29,14 @@
 </h4>注意!</h4><br>
 
 Map 預覽請使用 OSM Leaflet，並請ID 命名為"map"<br>
-
+不知道如何安裝?
+:https://leafletjs.com/
 <tr>
 使用方法
 
 ```
 
-Hello;測試使否安裝成功
+Hello();測試使否安裝成功
 
 getData(name);//輸入資料庫中對應Name,會為你自動標示在Leaflet地圖中
 
@@ -50,6 +51,8 @@ Clear(number);//隱藏
 
 Display(number);顯示
 
+
+套件名稱：Map_tool
 範例:
 Map_tool.Hello();
 >>>"this me"
